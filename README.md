@@ -1,8 +1,6 @@
 # Example README.md Outline
 
 ### Table of Contents
-# Table of contents
-
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
 2. [Research](#Research-h1)
