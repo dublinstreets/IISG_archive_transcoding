@@ -52,6 +52,7 @@ With some HTML tags you can do simple styling in markdown, for example:
 
     <width="50%">
 [<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
+
 Remember to include the url link to jump to the full media, of course! 
 
 
