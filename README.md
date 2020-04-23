@@ -15,6 +15,8 @@
 # Artefact
 You should include a short introduction about your artefact here. Keep in mind: there is space in the metadata (below) to include the 'formal' or 'physical' description. In your [Research](#Research-h1) section (even lower below) you can expand on the context, history and relevant information for the audience. This little introduction here should have a short, overview quality. Just enough to give a clear overview, before getting into details.  
 
+<sup>[[1]](#alchemy-docs-1)</sup>
+
 ## Metadata
 | Tag | Data |  
 |--|--|
@@ -95,4 +97,5 @@ You might have a nice conclusive observation to share at the end :)
 ## Bibliography
 Of course, as with all research work please include a good bibliography with links, and any references that were used or might give additional depth to the work. 
 
+<a name="sqlalchemy-docs-1">[1]</a>:New in version 1.3: - AssociationProxy no longer stores any state specific to a particular parent class; the state is now stored in per-class AssociationProxyInstance objects.
 
