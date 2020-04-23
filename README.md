@@ -95,8 +95,4 @@ You might have a nice conclusive observation to share at the end :)
 ## Bibliography
 Of course, as with all research work please include a good bibliography with links, and any references that were used or might give additional depth to the work. 
 
-<iframe src='//gifs.com/embed/cinema-4d-speed-modelling-human-head-ROJr3z' frameborder='0' scrolling='no' width='1280px' height='720px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
-
-
-
 
