@@ -29,7 +29,7 @@ You should include a short introduction about your artefact here. Keep in mind: 
 
 # Research (H1)
 
-This section consolidateds the background research, context and any relevant information regarding your research **into** the artefact.
+This section consolidates the background research, context and any relevant information regarding your research **into** the artefact.
 
 ## Research Sub-Heading (H2)
 Its important to give a clear structure to your Readme. Please use the document structure provided by markdown, so think of Headings, Sub-headings, text, bold/italic, lists (bullets and numbered), tables etc. You can also include some linked footnotes like this. <sup>[[1]](#footnote-1)</sup>
