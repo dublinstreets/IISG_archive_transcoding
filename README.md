@@ -46,7 +46,8 @@ Short description here. You can structure the information and documentation for 
 You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc). 
 
 ### Methods
-Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. 
+Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos. With simple HTML like <width="50%"> you can maintain simple styling in markdown. Remember to include the url link to jump to the full media, of course! 
+[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
 
 ### Tools 
 Mention the tools that you used or made (if and when relevant). 
@@ -88,7 +89,8 @@ You might have a nice conclusive observation to share at the end :)
 ## Bibliography
 Of course, as with all research work please include a good bibliography with links, and any references that were used or might give additional depth to the work. 
 
-[<img src="https://img.youtube.com/vi/o2rmmqxC4NU/maxresdefault.jpg" width="50%">](https://youtu.be/o2rmmqxC4NU)
+<iframe src='//gifs.com/embed/cinema-4d-speed-modelling-human-head-ROJr3z' frameborder='0' scrolling='no' width='1280px' height='720px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+
 
 
 
