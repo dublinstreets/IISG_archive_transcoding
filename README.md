@@ -5,7 +5,7 @@
 
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
-2. [Research](#Research)
+2. [Research](#Research-h1)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
     2. [Transcoding Tool](#Transcoding-tool)
@@ -15,7 +15,7 @@
 7. [Bibliography](#Bibliography) 
 
 # Artefact
-You should include a short introduction about your artefact here. Keep in mind: there is space in the metadata (below) to include the 'formal' or 'physical' description. In your [Research](#Research) section (even lower below) you can expand on the context, history and relevant information for the audience. This little introduction here should have a short, overview quality. Just enough to give a clear overview, before getting into details.  
+You should include a short introduction about your artefact here. Keep in mind: there is space in the metadata (below) to include the 'formal' or 'physical' description. In your [Research](#Research-h1) section (even lower below) you can expand on the context, history and relevant information for the audience. This little introduction here should have a short, overview quality. Just enough to give a clear overview, before getting into details.  
 
 ## Metadata
 | Tag | Data |  
