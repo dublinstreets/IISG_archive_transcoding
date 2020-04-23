@@ -31,7 +31,7 @@ You should include a short introduction about your artefact here. Keep in mind: 
 This section consolidateds the background research, context and any relevant information regarding your research **into** the artefact.
 
 ## Research Sub-Heading (H2)
-Its important to give a clear structure to your Readme. Please use the document structure provided by markdown, so think of Headings, Sub-headings, text, bold/italic, lists (bullets and numbered), tables etc. You can also include some linked footnotes like this <sup>[[1]](#footnote-1)</sup>.
+Its important to give a clear structure to your Readme. Please use the document structure provided by markdown, so think of Headings, Sub-headings, text, bold/italic, lists (bullets and numbered), tables etc. You can also include some linked footnotes like this. <sup>[[1]](#footnote-1)</sup>
 
 ### Research Sub-sub-heading (H3)
 The H3 heading is useful to define specific subsections within the H2 section. If you are in doubt about information structure, take a look at different wikipedia articles for reference. 
@@ -95,5 +95,5 @@ You might have a nice conclusive observation to share at the end :)
 ## Bibliography
 Of course, as with all research work please include a good bibliography with links, and any references that were used or might give additional depth to the work. 
 
-<a name="footnote-1">**[1]**</a>:New in version 1.3: - AssociationProxy no longer stores any state specific to a particular parent class; the state is now stored in per-class AssociationProxyInstance objects.
+<a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc. 
 
