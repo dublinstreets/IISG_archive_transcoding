@@ -23,7 +23,7 @@
 11. [List of Feedbacks](#List-of-Feedbacks) 
 
 # Artefact
-Serials'Practical Self-Sufficiency': An Artefact that has an Aura
+<br>Serials'Practical Self-Sufficiency': An Artefact that has an Aura</br>
 [<img src="Documentation/img/artefact_1.png" width="50%">](#)
 [<img src="Documentation/img/artefact_2.png" width="18%">](#)
 [<img src="Documentation/img/artefact_3.png" width="18%">](#)
