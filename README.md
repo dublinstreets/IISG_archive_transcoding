@@ -22,18 +22,21 @@
 10. [Bibliography](#Bibliography) 
 11. [List of Feedbacks](#List-of-Feedbacks) 
 
-# First Trajectory of the Project
-You should include a short introduction about your artefact here. Keep in mind: there is space in the metadata (below) to include the 'formal' or 'physical' description. In your [Research](#Research-h1) section (even lower below) you can expand on the context, history and relevant information for the audience. This little introduction here should have a short, overview quality. Just enough to give a clear overview, before getting into details.  
+# Artefact
+Serials'Practical Self-Sufficiency': An Artefact that has an Aura
+[<img src="Documentation/img/artefact_1.png" width="50%">](#)
+[<img src="Documentation/img/artefact_2.png" width="18%">](#)
+[<img src="Documentation/img/artefact_3.png" width="18%">](#)
+[<img src="Documentation/img/artefact_4.png" width="50%">](#)
 
 ## Metadata
 | Tag | Data |  
 |--|--|
-**IISG Call Number** | [IISG BG K21/985](https://search.iisg.amsterdam/Record/1109411)
-| **Physical Description** | Copper Bust 
+**IISG Call Number** | [IISG ZK 54412](https://search.iisg.amsterdam/Record/1382152)
+| **Physical Description** | Serials 
 | **Type** | Object
-| **Medium** | Sculpture
-| **Materials** | Copper, Steel
-| **Date** | 1912
+| **Language** | English
+| **Published** | 	Saffron Walden
 |![enter image description here](https://i.etsystatic.com/17079094/r/il/3ec709/1578951673/il_794xN.1578951673_liqk.jpg)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
 
 # Research (H1)
