@@ -1,5 +1,5 @@
 [<img src="Documentation/img/cover_img.png" width="100%">](#)
-Self-Sufficient Living
+<h1>Self-Sufficient Living</h1>
 
 ### Table of Contents
 1. [Artefact](#Artefact)
