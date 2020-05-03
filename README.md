@@ -24,10 +24,9 @@
 
 # Artefact
 <br>Serials'Practical Self-Sufficiency': An Artefact that has an Aura</br>
-[<img src="Documentation/img/artefact_1.png" width="50%">](#)
-[<img src="Documentation/img/artefact_2.png" width="18%">](#)
-[<img src="Documentation/img/artefact_3.png" width="18%">](#)
-[<img src="Documentation/img/artefact_4.png" width="50%">](#)
+[<img src="Documentation/img/artefact_2.png" width="20%">](#)
+[<img src="Documentation/img/artefact_3.png" width="20%">](#)
+[<img src="Documentation/img/artefact_4.png" width="20%">](#)
 
 ## Metadata
 | Tag | Data |  
@@ -37,7 +36,7 @@
 | **Type** | Object
 | **Language** | English
 | **Published** | 	Saffron Walden
-|![enter image description here][<img src="Documentation/img/artefact_1.png" width="50%">](#)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
+|[<img src="Documentation/img/artefact_1.png" width="50%">](#)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
 
 # Research (H1)
 
