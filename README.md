@@ -2,16 +2,25 @@
 <h1>Self-Sufficient Living</h1>
 
 ### Table of Contents
-1. [Artefact](#Artefact)
+1. [First Trajectory of the Project](#First-Trajectory-of-the-Project)
+    1. [Starting Point](#Starting-Point)
+    2. [First Artefact](#First-Artefact)
+    3. [Research on Artefact](#Research-on-Artefact)
+2. [Final Trajectory of the Project](#Final-Trajectory-of-the-Project)
+    1. [Starting Point](#Starting-Point)
+3. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
-2. [Research](#Research-h1)
-3. [Transcoding](#Transcoding)
+    2. [Research on the Artefact](#Research-on-Artefact)
+4. [Global Research](#Global-Research)
+5. [Research Questions](#Research-Questions)
+6. [Transcodings](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
     2. [Transcoding Tool](#Transcoding-tool)
-4. [Reflection](#Reflection)
-5. [Outcome](#Outcome)
-6. [Conclusion](#Conclusion)
-7. [Bibliography](#Bibliography) 
+7. [Reflection](#Reflection)
+8. [Outcome](#Outcome)
+9. [Conclusion](#Conclusion)
+10. [Bibliography](#Bibliography) 
+11. [List of Feedbacks](#List-of-Feedbacks) 
 
 # Artefact
 You should include a short introduction about your artefact here. Keep in mind: there is space in the metadata (below) to include the 'formal' or 'physical' description. In your [Research](#Research-h1) section (even lower below) you can expand on the context, history and relevant information for the audience. This little introduction here should have a short, overview quality. Just enough to give a clear overview, before getting into details.  
