@@ -1,5 +1,5 @@
 [<img src="Documentation/img/cover_img.png" width="100%">](#)
-# TITLE HERE Example README.md Outline
+Self-Sufficient Living
 
 ### Table of Contents
 1. [Artefact](#Artefact)
