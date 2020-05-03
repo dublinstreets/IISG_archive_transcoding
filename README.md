@@ -26,7 +26,7 @@
 <br>Serials'Practical Self-Sufficiency': An Artefact that has an Aura</br>
 [<img src="Documentation/img/artefact_2.png" width="20%">](#)
 [<img src="Documentation/img/artefact_3.png" width="20%">](#)
-[<img src="Documentation/img/artefact_4.png" width="20%">](#)
+[<img src="Documentation/img/artefact_6.png" width="20%">](#)
 
 ## Metadata
 | Tag | Data |  
