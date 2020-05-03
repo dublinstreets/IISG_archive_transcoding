@@ -37,7 +37,7 @@
 | **Type** | Object
 | **Language** | English
 | **Published** | 	Saffron Walden
-|![enter image description here](https://i.etsystatic.com/17079094/r/il/3ec709/1578951673/il_794xN.1578951673_liqk.jpg)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
+|![enter image description here][<img src="Documentation/img/artefact_1.png" width="50%">](#)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
 
 # Research (H1)
 
