@@ -22,7 +22,7 @@
 10. [Bibliography](#Bibliography) 
 11. [List of Feedbacks](#List-of-Feedbacks) 
 
-# Artefact
+# First Trajectory of the Project
 You should include a short introduction about your artefact here. Keep in mind: there is space in the metadata (below) to include the 'formal' or 'physical' description. In your [Research](#Research-h1) section (even lower below) you can expand on the context, history and relevant information for the audience. This little introduction here should have a short, overview quality. Just enough to give a clear overview, before getting into details.  
 
 ## Metadata
