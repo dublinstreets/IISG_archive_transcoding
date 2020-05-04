@@ -111,19 +111,24 @@ Serials 'Practical Self-Sufficiency': An Artefact that has an Aura
 <br>— specific entry points: based on a particular article of a particular issue</br>
 
 # Research on the Artefact
-| Genaral Info | Topics Inside | Content Type |  
-|--|--|
-| **Editors: Katie Thear** | how to sharpen workshop tools? 
-| **Graphics: Jim Hutchison** | Object
-| **Publisher: Broad Leys Publishing Company, Widdington, Saffron Walden, Essex** | English
-| **Times when published: 1975-1985, 6 times a year** | 	Saffron Walden
-| **Contributors: -** | 	Saffron Walden
-| **Language: English** | 	Saffron Walden
-| **Printed: Gamble&Wood, Station Road, Gt.Chesterford, Essex** | 	Saffron Walden
-
-
 
 # Global Research
+<h3>Whole Earth Catalogue</h3>
+<br>— self-sufficiency, ecology, alternative education, DIY, holism</br>
+<br>— convention-challenging experimentalism</br>
+<br>— counterculture</br>
+<h3>CoEvolution Quarterly</h3>
+<br>—  a journal which descended from Stewart Brand's Whole Earth Catalog<br>
+[<img src="Documentation/img/global_research_1.jpg" width="50%">](#)
+[<img src="Documentation/img/global_research_2.jpg" width="50%">](#)
+<h3>Online books pages by subject</h3>
+<h3>Cool Tools</h3>
+<h3>Drop City</h3>
+<h3>Burning Man</h3>
+<h3>Freetown Christiania</h3>
+
+
+
 # Research Questions
 
 # Transcodings
