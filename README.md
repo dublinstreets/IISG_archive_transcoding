@@ -212,7 +212,7 @@ The main aim of each individual transcoding is to 'activate' the content inside 
 ### Description
 <br>The transcoding is based on the text from the publiser, found in issue No.1 dating November / December 1975.</br>
 <img src="Documentation/img/text_from_the_publisher.png" width="50%">
-<br>The text is an entry point into the global topic of Self-Sufficient Living that the periodicals are adressing. More in detai, the text speculates about why there is a need for an individual to transfer to Self-Sufficient Living and encourages the reader to do so by bulding up a community via those printed issues.</br>
+<br>The text is an entry point into the global topic of Self-Sufficient Living that the periodicals are adressing. More in detail, the text speculates about why there is a need for an individual to transfer to Self-Sufficient Living and encourages the reader to do so by bulding up a community via those printed issues.</br>
 
 ### Methods
 
@@ -237,7 +237,7 @@ The main aim of each individual transcoding is to 'activate' the content inside 
 
 ### Aims
 <h3>1. Audio, video and still image formats:</h3>
-<br>- to transcoding of individual entries from the inside of one of the issues of the periodicals</br>
+<br>- the transcoding of individual entries from the inside of one of the issues of the periodicals</br>
 
 ### Methods
 <br>1. Audio, video and still image formats</br>
@@ -252,8 +252,8 @@ The main aim of each individual transcoding is to 'activate' the content inside 
 ** will follow later **
 
 # Outcomes
-<br>1. Multiple transcoding in a format a still image / audio / video</br>
-<br>2. A website collecting the transcosing together and contentualizing the topic of Sulf-Suffucient Living with references to the current times</br> 
+<br>1. Multiple transcoding in a format of a still image / audio / video</br>
+<br>2. A website collecting the transcoding together and contextualizing the topic of Self-Suffucient Living with references to the current times</br> 
 
 ### Outcome Links
 ** will follow later **
