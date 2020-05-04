@@ -34,8 +34,8 @@ obsessive collecting of objects in space / ordering and labelling of objects > i
 
 # First Artefact
 <h3>Researching through the Archive with keywords</h3>
-- personality
-- collector
+* personality
+* collector
 - physcology
 - mentality 
 - character 
