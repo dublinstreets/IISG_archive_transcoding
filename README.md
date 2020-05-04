@@ -253,7 +253,7 @@ The main aim of each individual transcoding is to 'activate' the content inside 
 
 # Outcomes
 <br>1. Multiple transcoding in a format of a still image / audio / video</br>
-<br>2. A website collecting the transcoding together and contextualizing the topic of Self-Suffucient Living with references to the current times</br> 
+<br>2. A website collecting the transcoding together and contextualizing the topic of Self-Sufficient Living with references to the current times</br> 
 
 ### Outcome Links
 ** will follow later **
