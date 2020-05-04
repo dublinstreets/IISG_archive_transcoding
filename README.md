@@ -17,9 +17,8 @@
     2. [Transcoding Tool](#Transcoding-tool)
 7. [Reflection](#Reflection)
 8. [Outcome](#Outcome)
-9. [Conclusion](#Conclusion)
-10. [Bibliography](#Bibliography) 
-11. [List of Feedbacks](#List-of-Feedbacks) 
+9. [Bibliography](#Bibliography) 
+10. [List of Feedbacks](#List-of-Feedbacks) 
 
 # First Trajectory of the Project
 <h3>The Initial Mindmap</h3>
@@ -244,25 +243,20 @@ Include the main aims or intentions behind making the tool, and what it is used 
 This includes the coding languages, coding frameworks or libraries, and any platforms or webtools for example.   
 
 ### Results
-The coding tool will vary a lot between different students. So depending on the use and type, you may include more or less documentation here. 
+** will follow later ** 
 
 ### Source Links
-Please include links to the tools, sources etc used during the coding. E.g. the resources used for making your coding tool.  
+** will follow later **
  
-
 # Reflection
-You might want to include a section about reflecting on the results of your coding and IMD experiments this semester. It can give additional context before reading the final outcomes below. 
+** will follow later **
 
 # Outcomes
-This section will be different for each student, depending on how and what is formatted as a final result for the semester assignment. Nevertheless a clear written and documented outcomes is important. So give the appropriate subsections or formats to make this as thorough as possible. 
+<br>1. Multiple transcoding in a format a still image / audio / video</br>
+<br>2. A website collecting the transcosing together and contentualizing the topic of Sulf-Suffucient Living with references to the current times</br> 
 
 ### Outcome Links
-Here you link to your final assignment outcomes. This could be a website, a video, etc etc. Please include links to the appropriate GitHub folder on your repository where your coding tool is stored. 
-
-This is the main way to access your IMD + Coding outcomes for the semester. So its very important that you check for bugs, troubleshoot hyperlink issues, embedded media issues etc. Please make sure you KNOW where each file you use is stored. E.g. If you migrated from Notion markdown into GitHub, its **VERY IMPORTANT** to know that Notion randomly stores images on an Amazon server. It changes those locations all the time. So if your main outcome or documentation is still grabbing those links, **its very likely** they might disappear before collectives. So please have all media and necessary files managed well in your own locations (online or github etc).   
-
-# Conclusion 
-You might have a nice conclusive observation to share at the end :) 
+** will follow later **
 
 ## Bibliography
 <a name="footnote-1">**[1]**</a>: Brows online books by subjects: e.g science, technology etc.
