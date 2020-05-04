@@ -119,8 +119,8 @@ Serials 'Practical Self-Sufficiency': An Artefact that has an Aura
 <br>— counterculture</br>
 <h3>CoEvolution Quarterly</h3>
 <br>—  a journal which descended from Stewart Brand's Whole Earth Catalog<br>
-[<img src="Documentation/img/global_research_1.jpg" width="50%">](#)
-[<img src="Documentation/img/global_research_2.jpg" width="50%">](#)
+[<img src="Documentation/img/global_research_1.jpg" width="50%">]
+[<img src="Documentation/img/global_research_2.jpg" width="50%">]
 <h3>Online books pages by subject</h3>
 <h3>Cool Tools</h3>
 <h3>Drop City</h3>
