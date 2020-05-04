@@ -92,7 +92,7 @@ obsessive collecting of objects in space / ordering and labelling of objects > i
 
 # Artefact
 Serials 'Practical Self-Sufficiency': An Artefact that has an Aura
-[<img src="Documentation/img/artefact_2.png" width="25%">](#)
+[<img src="Documentation/img/artefact_2.png" width="50%">](#)
 [<img src="Documentation/img/artefact_3.png" width="25%">](#)
 [<img src="Documentation/img/artefact_6.png" width="25%">](#)
 
@@ -120,7 +120,7 @@ Serials 'Practical Self-Sufficiency': An Artefact that has an Aura
 <h3>CoEvolution Quarterly</h3>
 <br>—  a journal which descended from Stewart Brand's Whole Earth Catalog<br>
 [<img src="Documentation/img/global_research_1.jpg" width="50%">]
-[<img src="Documentation/img/global_research_2.jpg" width="50%">]
+<img src="Documentation/img/global_research_2.jpg" width="50%">
 <h3>Online books pages by subject</h3>
 <br>- https://onlinebooks.library.upenn.edu/subjects.html</br>
 <h3>Cool Tools</h3>
