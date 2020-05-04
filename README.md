@@ -122,10 +122,23 @@ Serials 'Practical Self-Sufficiency': An Artefact that has an Aura
 [<img src="Documentation/img/global_research_1.jpg" width="50%">]
 [<img src="Documentation/img/global_research_2.jpg" width="50%">]
 <h3>Online books pages by subject</h3>
+<br>- https://onlinebooks.library.upenn.edu/subjects.html</br>
 <h3>Cool Tools</h3>
+<br>- https://kk.org/cooltools/</br>
+<br>— a website, which recommends the best/cheapest tools available</br>
+<br>— anything that can be useful</br>
+<br>— reviews written by real students</br>
 <h3>Drop City</h3>
+<br>— counterculture artists' community that formed in southern Colorado in 1965</br>
+<br>—  the intention was to create a live-in work of Drop Art</br>
+<br>— known as the first rural "hippie commune"</br>
 <h3>Burning Man</h3>
+<br>— described by participants as an experimental society, radical self-expression and radical self-sufficiency</br>
+<br>— the idea is that during Burning Man, people will temporarily build a community</br>
+<br>— participants are expected to be self-sufficient in their needs such as food, water and a place to sleep</br>
+<br>— Burning Man is very dependent on the efforts of volunteers</br>
 <h3>Freetown Christiania</h3>
+<br>— is an intentional community and commune of about 850 to 1,000 residents, covering 7.7 hectares (19 acres) in the borough of Christianshavn in the Danish capital city of Copenhagen</br>
 
 
 
