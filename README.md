@@ -7,7 +7,6 @@
     2. [First Artefact](#First-Artefact)
     3. [Research on Artefact](#Research-on-Artefact)
 2. [Final Trajectory of the Project](#Final-Trajectory-of-the-Project)
-    1. [Starting Point](#Starting-Point)
 3. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
     2. [Research on the Artefact](#Research-on-Artefact)
@@ -22,11 +21,80 @@
 10. [Bibliography](#Bibliography) 
 11. [List of Feedbacks](#List-of-Feedbacks) 
 
+# First Trajectory of the Project
+<h3>The Initial Mindmap</h3>
+
+obsessive collecting of objects in space / ordering and labelling of objects > it is a to compensate the mental emptiness and loneliness / solitude > also to isolate the Self and push the autonomy and independence of the Self, as it feels natural, it is a path > it is a patterned way of interaction with the surroundings, a particular strategy of an individual > on one side - independence and autonomy of Self in relation to the outer world & on another side - traces on loneliness / solitude are to be evident sooner or later 
+
+<h3>Topic - Autonomous and / vs / yet Lonely Individual</h3>
+
+# Starting Point
+<h3>The starting point - Text "The Man who Never Threw Anything Away"</h3>
+[<img src="Documentation/img/starting_point_image.png" width="55%">](#)
+
+# First Artefact
+<h3>Researching through the Archive with keywords</h3>
+- personality
+- collector
+- physcology
+- mentality 
+- character 
+- individual
+- society 
+- loneliness
+- solitude 
+- interaction 
+- autonomy
+- independence 
+- space 
+- room
+- surroundings
+- environment
+- box
+
+| Tag | Data |  
+|--|--|
+**IISG Call Number** | [IISG BG X1/53](https://search.iisg.amsterdam/Record/1216448)
+| **Collector** | Grootveld, Robert Jasper 
+| **Period** | 1950-1974
+| **Physical Description** | Textiel; 115x60 cm.
+| **Genres** | Object, Textile
+| **Type** | Visual Documents
+| **Subject** | Biographica
+| **Subject Location** | 	Netherlands
+| **Note** | 	Gewaad waarop allerlei voorwerpen zijn bevestigd zoals bijv. een horloge (los), veer, pijp, doodskop etc.
+|[<img src="Documentation/img/first_artefact.jpeg" width="100%">](#)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
+
+# Research on Artefact
+<h3>Jasper Robert Grootveld</h3>
+<br>- Dutch Artist, 19 July 1932 – 26 February 2009</br>
+<br>- Born in Amsterdam</br>
+<br>- Had a specific philosophy regarding how the masses are brainwashed to become addicted consumers</br>
+<br>- Robert Jasper Grootveld is one of the defining figures in post-war Dutch history</br>
+<br>- A man from the street who therefore fell outside all existing frameworks, but with his unique performances he eventually broke them open one by one</br>
+<br>- Around the age of eighteen he is deeply unhappy and he is admitted to a psychiatric hospital for observation</br>
+<br>- In the fifties he maintains, looking for attention, a whole series of homosexual relationships with men who are not only a lot older than him, but who seem to have had a much better life, including a banker, a television reporter , a (hurried) priest, a poet, a harbor baron, a real estate trader and a (popular) writer</br>
+<br>- Marijuana entered his life in the early 1960s. He also stops his homosexual contacts. It seems as if he is putting someone else in his place, who will not let him go for the rest of his life: Sinterklaas</br>
+<br>- He attacks the cigarette industry that manipulates people through advertising and blinded the dangers of smoking. In the fall of 1961, he began to paint cigarette advertising posters with 'cancer' or with a k</br>
+<br>- In 2007, his raft fleet is moored for the International Institute of Social History. RJG withdraws to a care home in Amsterdam</br>
+[<img src="Documentation/img/research_on_artefact.jpg" width="20%">](#)
+<h3>Amsterdam</h3>
+- Magic Center Amsterdam grows in the late sixties and early seventies into one of the hippie capitals of the world
+<h3>Provo Movement</h3>
+<h3>Association De Dageraad</h3>
+<h3>Events called Happenings in Amsterdam at Spui</h3>
+<h3>Dutch subculture Nozems</h3>
+
+# Final Trajectory of the Project
+<h3>Book 'Solitude and privacy : a study of social isolation : its causes and therapy'</h3>
+[<img src="Documentation/img/final_trajectory_1.jpg" width="35%">](#)
+[<img src="Documentation/img/final_trajectory_2.jpg" width="35%">](#)
+
 # Artefact
-<br>Serials'Practical Self-Sufficiency': An Artefact that has an Aura</br>
-[<img src="Documentation/img/artefact_2.png" width="20%">](#)
-[<img src="Documentation/img/artefact_3.png" width="20%">](#)
-[<img src="Documentation/img/artefact_6.png" width="20%">](#)
+Serials 'Practical Self-Sufficiency': An Artefact that has an Aura
+[<img src="Documentation/img/artefact_2.png" width="25%">](#)
+[<img src="Documentation/img/artefact_3.png" width="25%">](#)
+[<img src="Documentation/img/artefact_6.png" width="25%">](#)
 
 ## Metadata
 | Tag | Data |  
@@ -38,17 +106,27 @@
 | **Published** | 	Saffron Walden
 |[<img src="Documentation/img/artefact_1.png" width="50%">](#)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
 
-# Research (H1)
+<br>Entry points to the Artefact / What is to be decoded:</br>
+<br>— global entry points: the topics of self-sufficiency / autonomy / independency / self- reliance and it's practical & mental aspects</br>
+<br>— specific entry points: based on a particular article of a particular issue</br>
 
-This section consolidates the background research, context and any relevant information regarding your research **into** the artefact.
+# Research on the Artefact
+| Genaral Info | Topics Inside | Content Type |  
+|--|--|
+| **Editors: Katie Thear** | how to sharpen workshop tools? 
+| **Graphics: Jim Hutchison** | Object
+| **Publisher: Broad Leys Publishing Company, Widdington, Saffron Walden, Essex** | English
+| **Times when published: 1975-1985, 6 times a year** | 	Saffron Walden
+| **Contributors: -** | 	Saffron Walden
+| **Language: English** | 	Saffron Walden
+| **Printed: Gamble&Wood, Station Road, Gt.Chesterford, Essex** | 	Saffron Walden
 
-## Research Sub-Heading (H2)
-Its important to give a clear structure to your Readme. Please use the document structure provided by markdown, so think of Headings, Sub-headings, text, bold/italic, lists (bullets and numbered), tables etc. You can also include some linked footnotes like this. <sup>[[1]](#footnote-1)</sup>
 
-### Research Sub-sub-heading (H3)
-The H3 heading is useful to define specific subsections within the H2 section. If you are in doubt about information structure, take a look at different wikipedia articles for reference. 
 
-# Transcoding
+# Global Research
+# Research Questions
+
+# Transcodings
 Please include a general description of the role of transcoding in your project. Using the H2 headings below, you can specify individual Transcoding experiments. Think about your motivations in transcoding, and mention the role of tools (also those made during the assignment). This gives some direction to the reader about what they will read in more detail below. 
 
 ## Transcoding No. 1
@@ -109,4 +187,6 @@ You might have a nice conclusive observation to share at the end :)
 Of course, as with all research work please include a good bibliography with links, and any references that were used or might give additional depth to the work. 
 
 <a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc. 
+
+## List of Feedbacks
 
