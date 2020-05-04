@@ -34,23 +34,23 @@ obsessive collecting of objects in space / ordering and labelling of objects > i
 
 # First Artefact
 <h3>Researching through the Archive with keywords</h3>
-* personality
+* personality</br>
 * collector
-- physcology
-- mentality 
-- character 
-- individual
-- society 
-- loneliness
-- solitude 
-- interaction 
-- autonomy
-- independence 
-- space 
-- room
-- surroundings
-- environment
-- box
+* physcology
+* mentality 
+* character 
+* individual
+* society 
+* loneliness
+* solitude 
+* interaction 
+* autonomy
+* independence 
+* space 
+* room
+* surroundings
+* environment
+* box
 
 | Tag | Data |  
 |--|--|
