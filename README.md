@@ -217,6 +217,9 @@ The main aim of each individual transcoding is to 'activate' the content inside 
 ### Methods
 
 1. Audio
+To listen to the reading: https://www.youtube.com/watch?v=p4yGQXLIQZM
+
+However, since it is a relatively big text, purely audio format might not be the the best one to deliver the info to the listener to the full extend
 2. Audio + Subtitles + Static Image
 <img src="Documentation/img/transcoding_still_image.jpg" width="35%">
 3. Audio + Subtitles + Moving Image
