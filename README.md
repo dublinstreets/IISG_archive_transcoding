@@ -237,10 +237,14 @@ Some of your transcoding experiments may have smaller outcome sketches like imag
 You might have made multiple coding tools during the semester. Or the transcoding tool might be part of a specific transcoding experiment itself. It's up to you to define the linear flow of the Readme. Just like the transcoding of media itself, the coding tool should be well documented. So if you are using a coding tool in your first experiment, include the documentation of the coding tool **before** you include the results, etc. 
 
 ### Aims
-Include the main aims or intentions behind making the tool, and what it is used for. 
+<h1>1. Audio, video and still image formats:</h1>
+<br>- to transcoding the insividual entries from the inside of one of the issues of the periodicals</br>
+<h1>2. CSS/HTML/Javascript for the website:</h1>
+<br>- to bring together on one platform the context of the Sulf-Sufficient Living from the original source (the periodical) and the it's reation to the current times</br>
 
 ### Methods
-This includes the coding languages, coding frameworks or libraries, and any platforms or webtools for example.   
+<br>1. Audio, video and still image formats</br>
+<br>2. CSS/HTML/Javascript for the website </br> 
 
 ### Results
 ** will follow later ** 
