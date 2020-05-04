@@ -13,8 +13,7 @@
 4. [Global Research](#Global-Research)
 5. [Research Questions](#Research-Questions)
 6. [Transcodings](#Transcoding)
-    1. [Transcoding No. 1](#Transcoding-no-1)
-    2. [Transcoding Tool](#Transcoding-tool)
+    1. [Transcoding No. 1_Sketch](#Transcoding-no-1)
 7. [Reflection](#Reflection)
 8. [Outcome](#Outcome)
 9. [Bibliography](#Bibliography) 
@@ -207,44 +206,38 @@ Serials 'Practical Self-Sufficiency': An Artefact that has an Aura
 <br>-Research Question #1 (main):What strategies does the culture of online self-sufficiency use?</br>
 
 # Transcodings
-Please include a general description of the role of transcoding in your project. Using the H2 headings below, you can specify individual Transcoding experiments. Think about your motivations in transcoding, and mention the role of tools (also those made during the assignment). This gives some direction to the reader about what they will read in more detail below. 
+The main aim of each individual transcoding is to 'activate' the content inside of a chosen issue. The content is text and image based and has a tutorial / instruction like character. So with the individual transcodings I aim to give the content some dynamic with the format of an auido / video, but also to to make it some visual for people who will be diving into it.  
 
-## Transcoding No. 1
+## Transcoding No. 1_Sketch
 ### Description
-Short description here. You can structure the information and documentation for each transcoding, design research or coding tool as you like. It's important that you make clear the aims & goals of the transcoding, what methods and tools you use. If this is often the same across different transcodings, consider making a standardised table at the beginning of each.
-
-You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc). 
+<br>The transcoding is based on the text from the publiser, found in issue No.1 dating November / December 1975.</br>
+<img src="Documentation/img/text_from_the_publisher.png" width="50%">
+<br>The text is an entry point into the global topic of Self-Sufficient Living that the periodicals are adressing. More in detai, the text speculates about why there is a need for an individual to transfer to Self-Sufficient Living and encourages the reader to do so by bulding up a community via those printed issues.</br>
 
 ### Methods
-Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
 
-With some HTML tags you can do simple styling in markdown, for example:
+1. Audio
+2. Audio + Subtitles + Static Image
+3. Audio + Subtitles + Moving Image
 
     <width="50%">
-[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
-
-Remember to include the url link to jump to the full media, of course! 
+<img src="Documentation/img/transcoding_sketch_movie.gif" width="50%">
 
 
 ### Tools 
-Mention the tools that you used or made (if and when relevant). 
+<br>1. TextEdit</br>
+<br>2. Premiere Pro </br>
+<br>2. Photoshop </br>
 
 ### Results
-Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
-
-## Transcoding Tool 
-### Description
-You might have made multiple coding tools during the semester. Or the transcoding tool might be part of a specific transcoding experiment itself. It's up to you to define the linear flow of the Readme. Just like the transcoding of media itself, the coding tool should be well documented. So if you are using a coding tool in your first experiment, include the documentation of the coding tool **before** you include the results, etc. 
+** will follow later **  
 
 ### Aims
-<h1>1. Audio, video and still image formats:</h1>
-<br>- to transcoding the insividual entries from the inside of one of the issues of the periodicals</br>
-<h1>2. CSS/HTML/Javascript for the website:</h1>
-<br>- to bring together on one platform the context of the Sulf-Sufficient Living from the original source (the periodical) and the it's reation to the current times</br>
+<h3>1. Audio, video and still image formats:</h3>
+<br>- to transcoding of individual entries from the inside of one of the issues of the periodicals</br>
 
 ### Methods
 <br>1. Audio, video and still image formats</br>
-<br>2. CSS/HTML/Javascript for the website </br> 
 
 ### Results
 ** will follow later ** 
