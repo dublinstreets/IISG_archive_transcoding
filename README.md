@@ -265,9 +265,9 @@ This is the main way to access your IMD + Coding outcomes for the semester. So i
 You might have a nice conclusive observation to share at the end :) 
 
 ## Bibliography
-Of course, as with all research work please include a good bibliography with links, and any references that were used or might give additional depth to the work. 
+<a name="footnote-1">**[1]**</a>: Brows online books by subjects: e.g science, technology etc.
+<a name="footnote-2">**[2]**</a>: A web site which recommends the best/cheapest tools available (https://kk.org/cooltools/)
 
-<a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc. 
 
 ## List of Feedbacks
 <h3>From Martijn as of March 16th</h3>
@@ -316,12 +316,3 @@ Of course, as with all research work please include a good bibliography with lin
 <br> - think of the following scheme: 1) pick one issue of the periodical — > 2) transcode the content into a digital publication aka the website — > 3) embed the links / references of how the community of self-sufficientcy functions now</br>
 <br>- in a way, i have to be the contemporary designer of the old issue</br>
 <br>- have a preliminary version of the website by May 4th</br>
-
-
-
-
-
-
-
-
-
