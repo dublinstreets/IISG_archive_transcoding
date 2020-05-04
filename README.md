@@ -219,9 +219,9 @@ The main aim of each individual transcoding is to 'activate' the content inside 
 1. Audio
 2. Audio + Subtitles + Static Image
 3. Audio + Subtitles + Moving Image
-
-    <width="50%">
-<img src="Documentation/img/transcoding_sketch_movie.gif" width="50%">
+<img src="Documentation/img/transcoding_sketch_1.jpg" width="35%">
+<img src="Documentation/img/transcoding_sketch_2.jpg" width="35%">
+<img src="Documentation/img/transcoding_sketch_movie.gif" width="70%">
 
 
 ### Tools 
