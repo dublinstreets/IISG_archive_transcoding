@@ -86,8 +86,8 @@ obsessive collecting of objects in space / ordering and labelling of objects > i
 <h3>Dutch subculture Nozems</h3>
 
 # Final Trajectory of the Project
-<h3>Book 'Solitude and privacy : a study of social isolation : its causes and therapy'</h3>
-[<img src="Documentation/img/final_trajectory_1.jpg" width="35%">](#)
+<h3>Book 'Solitude and privacy: a study of social isolation: its causes and therapy'</h3>
+<img src="Documentation/img/final_trajectory_1.jpg" width="35%">(#)
 [<img src="Documentation/img/final_trajectory_2.jpg" width="35%">](#)
 
 # Artefact
@@ -245,7 +245,6 @@ Of course, as with all research work please include a good bibliography with lin
     - make a video with visuals, so image medium</br>
 
  <h3>From Hannes and Martijn as of April 20th</h3>
-
 <br>- there is already one concrete outcome — the collective [read.me](http://read.me) catalogue ('The Catalogue of Resillience')</br>
 <br>- the approach to structure the catalogue is editorial</br>
 <br>- week May 11-16 is when the [read.me](http://read.me) file should be final</br>
