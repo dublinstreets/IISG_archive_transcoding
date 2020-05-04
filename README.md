@@ -217,7 +217,9 @@ The main aim of each individual transcoding is to 'activate' the content inside 
 ### Methods
 
 1. Audio
+<audio src="Documentation/audio/reading.mp3">
 2. Audio + Subtitles + Static Image
+<img src="Documentation/img/transcoding_still_image.jpg" width="35%">
 3. Audio + Subtitles + Moving Image
 <img src="Documentation/img/transcoding_sketch_1.jpg" width="35%">
 <img src="Documentation/img/transcoding_sketch_2.jpg" width="35%">
