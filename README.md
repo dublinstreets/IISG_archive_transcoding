@@ -30,7 +30,7 @@ obsessive collecting of objects in space / ordering and labelling of objects > i
 
 # Starting Point
 <h3>The starting point - Text "The Man who Never Threw Anything Away"</h3>
-[<img src="Documentation/img/starting_point_image.png" width="55%">](#)
+<img src="Documentation/img/starting_point_image.png" width="55%">(#)
 
 # First Artefact
 <h3>Researching through the Archive with keywords</h3>
@@ -77,7 +77,7 @@ obsessive collecting of objects in space / ordering and labelling of objects > i
 <br>- Marijuana entered his life in the early 1960s. He also stops his homosexual contacts. It seems as if he is putting someone else in his place, who will not let him go for the rest of his life: Sinterklaas</br>
 <br>- He attacks the cigarette industry that manipulates people through advertising and blinded the dangers of smoking. In the fall of 1961, he began to paint cigarette advertising posters with 'cancer' or with a k</br>
 <br>- In 2007, his raft fleet is moored for the International Institute of Social History. RJG withdraws to a care home in Amsterdam</br>
-[<img src="Documentation/img/research_on_artefact.jpg" width="20%">](#)
+<img src="Documentation/img/research_on_artefact.jpg" width="20%">(#)
 <h3>Amsterdam</h3>
 - Magic Center Amsterdam grows in the late sixties and early seventies into one of the hippie capitals of the world
 <h3>Provo Movement</h3>
@@ -88,7 +88,7 @@ obsessive collecting of objects in space / ordering and labelling of objects > i
 # Final Trajectory of the Project
 <h3>Book 'Solitude and privacy: a study of social isolation: its causes and therapy'</h3>
 <img src="Documentation/img/final_trajectory_1.jpg" width="35%">(#)
-[<img src="Documentation/img/final_trajectory_2.jpg" width="35%">](#)
+<img src="Documentation/img/final_trajectory_2.jpg" width="35%">(#)
 
 # Artefact
 Serials 'Practical Self-Sufficiency': An Artefact that has an Aura
