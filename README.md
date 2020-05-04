@@ -30,7 +30,7 @@ obsessive collecting of objects in space / ordering and labelling of objects > i
 
 # Starting Point
 <h3>The starting point - Text "The Man who Never Threw Anything Away"</h3>
-<img src="Documentation/img/starting_point_image.png" width="55%">(#)
+<img src="Documentation/img/starting_point_image.png" width="55%">
 
 # First Artefact
 <h3>Researching through the Archive with keywords</h3>
