@@ -16,9 +16,6 @@
 
 # Artefact
 Serials 'Practical Self-Sufficiency' is an Artefact that has an Aura.
-<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/artefact_2.png" width="25%">
-<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/artefact_3.png" width="25%">
-<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/artefact_6.png" width="25%">
 
 ## Metadata
 | Tag | Data |  
@@ -28,13 +25,17 @@ Serials 'Practical Self-Sufficiency' is an Artefact that has an Aura.
 | **Type** | Object
 | **Language** | English
 | **Published** | 	Saffron Walden
-|[<img src="Documentation/img/artefact_1.png" width="50%">](#)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
+|[<img src="Documentation/img/artefact_1.png" width="100%">](#)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
 
 <br>Entry points to the Artefact / What is to be decoded:</br>
 <br>— global entry points: the topics of self-sufficiency / autonomy / independency / self- reliance and it's practical & mental aspects</br>
 <br>— specific entry points: based on a particular article of a particular issue</br>
 
 # Research on the Artefact
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/artefact_2.png" width="25%">
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/artefact_3.png" width="25%">
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/artefact_6.png" width="25%">
+
 <h3>General Information</h3>
 <br>- Editors: Katie Thear</br>
 <br>- Graphics: Jim Hutchison</br>
