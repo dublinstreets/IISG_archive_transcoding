@@ -1,23 +1,17 @@
-[<img src="Documentation/img/cover_img.png" width="100%">](#)
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/cover.jpg">
 <h1>Self-Sufficient Living</h1>
 
 ### Table of Contents
-1. [First Trajectory of the Project](#First-Trajectory-of-the-Project)
-    1. [Starting Point](#Starting-Point)
-    2. [First Artefact](#First-Artefact)
-    3. [Research on Artefact](#Research-on-Artefact)
-2. [Final Trajectory of the Project](#Final-Trajectory-of-the-Project)
-3. [Artefact](#Artefact)
-    1. [Metadata](#Metadata)
-    2. [Research on the Artefact](#Research-on-Artefact)
-4. [Global Research](#Global-Research)
-5. [Research Questions](#Research-Questions)
-6. [Transcodings](#Transcoding)
-    1. [Transcoding No. 1_Sketch](#Transcoding-no-1)
-7. [Reflection](#Reflection)
-8. [Outcome](#Outcome)
-9. [Bibliography](#Bibliography) 
-10. [List of Feedbacks](#List-of-Feedbacks) 
+1. [Artefact](#artefact)
+    1. [Metadata](#metadata)
+    2. [Research on the Artefact](#research-on-artefact)
+2. [Global Research](#global-research)
+3. [Research Questions](#research-questions)
+4. [Transcodings](#transcoding)
+    1. [Transcoding No. 1](#transcoding-no-1)
+5. [Reflection](#reflection)
+6. [Outcome](#outcome)
+7. [Bibliography](#bibliography) 
 
 # First Trajectory of the Project
 <h3>The Initial Mindmap</h3>
