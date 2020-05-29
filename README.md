@@ -27,13 +27,14 @@ Serials 'Practical Self-Sufficiency' is an Artefact that created an Aura by comm
 | **Type** | Object
 | **Language** | English
 | **Published** | 	Saffron Walden
-|[<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/artefact_1.png"> width="100%">]| The artefact is a single magazine of approximate format of A4. The cover design is consistent with a typographic logotype on top on the layout followed by varied graphics in color.
-
-<br>Entry points to the Artefact / What is to be decoded:</br>
-<br>— global entry points: the topics of self-sufficiency / autonomy / independency / self- reliance and it's practical & mental aspects</br>
-<br>— specific entry points: based on a particular article of a particular issue</br>
+|<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/artefact_1.png">
+| The artefact is a single magazine of approximate format of A4. The cover design is consistent with a typographic logotype on top on the layout followed by varied graphics in color.
 
 # Research on the Artefact
+
+Entry points to the Artefact / What is to be decoded:
+— global entry points: the topics of self-sufficiency / autonomy / independency / self- reliance and it's practical & mental aspects
+— specific entry points: based on a particular article of a particular issue
 <img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/artefact_2.png" width="25%">
 <img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/artefact_3.png" width="25%">
 <img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/artefact_6.png" width="25%">
