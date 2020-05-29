@@ -51,15 +51,15 @@ Serials 'Practical Self-Sufficiency' is an Artefact that created an Aura by comm
 # Global Research
 
 ### Topics related to Self-Sufficiency:
-**1.** DIY **2.** Digital ecology **3.** Alternative education **4.** Holism **5.** Experimentalism **6.** Counterculture **7.** Radical Self-reliance
+**--** DIY **--** Digital ecology **--** Alternative education **--** Holism **--** Experimentalism **--** Counterculture **--** Radical Self-reliance
 
 ### 1. Whole Earth Catalogue:
 **--** Self-sufficiency, ecology, alternative education, DIY, holism **--** Convention-challenging experimentalism **--** Counterculture
 
 ### 2. CoEvolution Quarterly:
 **--** A journal which descended from Stewart Brand's Whole Earth Catalogue
-<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/global_research_1.jpg">
-<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/global_research_2.jpg">
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/global_research_1.jpg"width="40%">
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/global_research_2.jpg"width="40%">
 
 ### 3. Online books pages by subject</h3>
 <br>- https://onlinebooks.library.upenn.edu/subjects.html</br>
