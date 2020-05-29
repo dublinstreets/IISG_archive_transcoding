@@ -105,13 +105,13 @@ The first transcoding I have made is a the *reading* of the *text from a publish
 
 *Firstly*, I was thinking about having a black screen and running subtitles, while the audio is still present there. So the person could not only use the verbal memory, but also visual memory to digest the content.
 
-**Sketch:**
+**Sketch 1:**
 
 <img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/transcoding_still_image.jpg" width="55%">
 
 *Secondly*, I understood that the black screen is obviously not the best option for a video that's running to 3.5 minites. Then I started to experient with recording myself as a text activator and manipulation the image of myself to have it more abstarct. Indeed, the personality of me is not imporant, but its important to see that behind the activation is a real person.
 
-**Sketches:**
+**Sketche 2:**
 
 <img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/transcoding_sketch_1.jpg" width="55%">
 
@@ -119,7 +119,14 @@ The first transcoding I have made is a the *reading* of the *text from a publish
 
 **Fragment from a video sketch:**
 
-<gif src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/transcoding_sketch_movie.gif.gif" width="100%">
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/transcoding_sketch_movie.gif.gif"width="100%">
+   
+**Final reading into a video:**
+
+
+**To listen to the reading go to:** https://www.youtube.com/watch?v=zWSv1umZe4o
+
+
 
 ### Tools 
 **1.** TextEdit
