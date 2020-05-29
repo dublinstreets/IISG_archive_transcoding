@@ -109,7 +109,7 @@ The first transcoding I have made is a the *reading* of the *text from a publish
 
 <img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/transcoding_still_image.jpg" width="55%">
 
-*Secondly*, I understood that the black screen is obviously not the best option for a video that's running to 3.5 minites. Then I started to experient with recording myself as a text activator and manipulation the image of myself to have it more abstarct. Indeed, the personality of me is not imporant, but its important to see that behind the activation is a real person.
+*Secondly*, I understood that the black screen is obviously not the best option for a video that's running 3.5 minites. Then I started to experient with recording myself as a text activator and manipulation the image of myself to have it more abstarct. Indeed, the personality of me is not imporant, but its important to see that behind the activation there is a real person.
 
 **Sketches 2:**
 
@@ -129,8 +129,6 @@ The first transcoding I have made is a the *reading* of the *text from a publish
 
 <img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/transcoding_final_movie_3.png" width="100%">
 
-**To listen to the reading go to:** https://www.youtube.com/watch?v=zWSv1umZe4o
-
 ### Tools 
 **1.** TextEdit
 
@@ -141,6 +139,7 @@ The first transcoding I have made is a the *reading* of the *text from a publish
 **4.** QuickTime Player
 
 ### Results
+**To listen to the reading go to:** https://www.youtube.com/watch?v=zWSv1umZe4o
 
 ## Transcoding No. 2
 ### Description
