@@ -58,8 +58,8 @@ Serials 'Practical Self-Sufficiency' is an Artefact that created an Aura by comm
 
 ### 2. CoEvolution Quarterly:
 **--** A journal which descended from Stewart Brand's Whole Earth Catalogue
-<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/global_research_1.jpg" width="35%">
-<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/global_research_2.jpg" width="35%">
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/global_research_1.jpg" width="40%">
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/global_research_2.jpg" width="20%">
 
 ### 3. Online books pages by subject</h3>
 <br>- https://onlinebooks.library.upenn.edu/subjects.html</br>
