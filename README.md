@@ -143,11 +143,23 @@ The first transcoding I have made is a the *reading* of the *text from a publish
 
 ## Transcoding No. 2
 ### Description
+**As a way to address the very relevant status of the movement in the current times, there is the website that serves as a platform. The idea of this plaform is to refer to the Artefact of the IISG is 2 ways. One is visual way - the platform uses a similar layout design as the cover in the original magazine. One the contextual way - it presents the original articles with illustrations from one of the issues of the magazine. Another layer of the platform is referencial. It is possible to dive into tips / tutorials of Self-Sufficient Living that people share these times.**
+
 ### Methods
+
 ### Tools 
+**1.** TextEdit - to turn the images of the magazines spreads into text
+
+**2.** Photoshop - to manipulate the illustration accompanyng the articles from the magazine
+
+**3.** Indesign - to draw out some typographic elements for the website
+
+**4.** Google Chrome - to do research on the current movement of Self-Sufficient Living
+
+**5.** Atom - to write the code for the website
+
 ### Results
-
-
+**To see the website go to:** https://sonianikolaeva.github.io/
 
 ## Transcoding Tool
 
