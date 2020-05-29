@@ -146,7 +146,9 @@ Generally, approaching the Artefact from a standpoint of a person, who 'activate
 
 ### Outcome Links
 **1. The audio:** https://www.youtube.com/watch?v=p4yGQXLIQZM
+
 **2. The video:** https://www.youtube.com/watch?v=zWSv1umZe4o
+
 **3. The website:** https://sonianikolaeva.github.io/
 
 # Conclusion
@@ -154,5 +156,4 @@ Regarding working with the method of transcoding, I have learned to look at the 
 Regarding the theme / movement I worked with, I was happy to be able to chose an Artefact that's personally interesting for me. I enjoyed the research phase and expecially looking for parallels and common points in the movement that was popular 40 years ago and still remains so. It is indeed unfortunate that I didn't have access to the Artefact due to Covid-19. In fact, after my first visit to IISG, I wasn't sure this Artefact would be my final one and planned to come back and search more. Thus at that moment I didn't make a good documentation of the Artefact (e.g scans) and so it wasn't that smooth of a process to work only with a few pictures of the magazine spreads. The Artefact is not available anywhere else online or as a pdf. 
 
 ## Bibliography
-<a name="footnote-1">**[1]**</a>: Brows online books by subjects: e.g science, technology etc.
-<a name="footnote-2">**[2]**</a>: A web site which recommends the best/cheapest tools available (https://kk.org/cooltools/)
+<a name="footnote-1">**[2]**</a>: A web site which recommends the best/cheapest tools available (https://kk.org/cooltools/)
