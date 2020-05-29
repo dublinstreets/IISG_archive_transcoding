@@ -54,35 +54,34 @@ Serials 'Practical Self-Sufficiency' is an Artefact that created an Aura by comm
 **1.** DIY **2.** Digital ecology **3.** Alternative education **4.** Holism **5.** Experimentalism **6.** Counterculture **7.** Radical Self-reliance
 
 ### 1. Whole Earth Catalogue:
-**-** Self-sufficiency, ecology, alternative education, DIY, holism
-**-** Convention-challenging experimentalism
-**-** Counterculture
+**--** Self-sufficiency, ecology, alternative education, DIY, holism **--** Convention-challenging experimentalism **--** Counterculture
 
 ### 2. CoEvolution Quarterly:
-<br>—  a journal which descended from Stewart Brand's Whole Earth Catalog<br>
-<img src="Documentation/img/global_research_1.jpg" width="50%">
-<img src="Documentation/img/global_research_2.jpg" width="50%">
-<h3>Online books pages by subject</h3>
+**--** A journal which descended from Stewart Brand's Whole Earth Catalogue
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/global_research_1.jpg">
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/global_research_2.jpg">
+
+### 3. Online books pages by subject</h3>
 <br>- https://onlinebooks.library.upenn.edu/subjects.html</br>
 
-### 3. Cool Tools:
+### 4. Cool Tools:
 <br>- https://kk.org/cooltools/</br>
 <br>— a website, which recommends the best/cheapest tools available</br>
 <br>— anything that can be useful</br>
 <br>— reviews written by real students</br>
 
-### 4. Drop City:
+### 5. Drop City:
 <br>— counterculture artists' community that formed in southern Colorado in 1965</br>
 <br>—  the intention was to create a live-in work of Drop Art</br>
 <br>— known as the first rural "hippie commune"</br>
 
-### 5. Burning Man:
+### 6. Burning Man:
 <br>— described by participants as an experimental society, radical self-expression and radical self-sufficiency</br>
 <br>— the idea is that during Burning Man, people will temporarily build a community</br>
 <br>— participants are expected to be self-sufficient in their needs such as food, water and a place to sleep</br>
 <br>— Burning Man is very dependent on the efforts of volunteers</br>
 
-### 6. Freetown Christiania:
+### 7. Freetown Christiania:
 <br>— is an intentional community and commune of about 850 to 1,000 residents, covering 7.7 hectares (19 acres) in the borough of Christianshavn in the Danish capital city of Copenhagen</br>
 
 # Transcodings
