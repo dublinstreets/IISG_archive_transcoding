@@ -82,9 +82,15 @@ The main aim of the transcodings is activation of the content inside the issue b
 
 ## Transcoding No. 1
 ### Description
-** The transcoding is based on the text from the publiser, found in issue No.1 dating November / December 1975 **
-<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/text_from_the_publisher.png" width="50%">
-<br>The text is an entry point into the global topic of Self-Sufficient Living that the periodicals are adressing. More in detail, the text speculates about why there is a need for an individual to transfer to Self-Sufficient Living and encourages the reader to do so by bulding up a community via those printed issues.</br>
+**The transcoding is based on the text from the publiser, found in issue No.1 dating November / December 1975**
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/text_from_the_publisher.png" width="30%">
+**Here is the text:**
+*This magazine has come into being because there is a need for it. The country faces grave economic difficulties and the likelihood of severe shortages. Rapid inflation, unemployment, soaring food prices, chemically adulterated foods and the increasing dehumanising of our Society, have all contributed to a growing awareness of the need to be more self-reliant — to grow more of our own food — to make less demands on a welfare state which can no longer cope with the needs of its citizens. 
+There is no shortage of writings which comment on the present state of society, or of theoretical suggestions for its improvement. We are steeped in a plethora of words — a situation which leaves the thinking and concerned person in a state of frustration. The need is for direct experience of the whole and natural life, irrespective of the situation in which we find ourselves — whether it be in the centre of a city or in a commune in Wales. This is of paramount importance, not only for us, but for our children — for knowledge and experience gained in childhood are never lost.This is primarily a practical magazine where we shall seek to rediscover and pass on knowledge of traditional skills and practices of good husbandry and craftsmanship. Much of this 'small-scale' knowledge is in danger of dying out —so accustomed have we become to having everything 'laid on' for us. In order to do this we need your help in the form of letters, suggestions, advice and contributions from your experience. In this respect, we particularly welcome the subscribers to 'Self-Reliance Newsletter' — a publication launched just over a year ago by Colin Richardson, and which is now an integral part of 'Practical Self-Sufficiency'. SRN readers have spearheaded the movement towards pooling know-ledge and experience of small-scale living. 
+We are not out to make a profit — every subscription will go towards expanding and improving the publication. We shall make many mistakes initially, and hope that you will bear with us — we are also learning. The need now is for a concerted effort, already begun, to harness the pragmatic genius and innovative ability of this nation — it is to this end that 'Practical Self-Sufficiency' is directed.* 
+
+**Why this text is important:**
+The text is an entry point into the global topic of Self-Sufficient Living that the periodicals are adressing. More in detail, the text speculates about why there is a need for an individual to transfer to Self-Sufficient Living and encourages the reader to do so by bulding up a community via those printed issues.
 
 ### Methods
 <br>1. Audio</br>
