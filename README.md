@@ -78,16 +78,15 @@ https://kk.org/cooltools/
 **--** Is an intentional community and commune of about 850 to 1,000 residents, covering 7.7 hectares (19 acres) in the borough of Christianshavn in the Danish capital city of Copenhagen
 
 # Transcodings
-The main aim of each individual transcoding is to 'activate' the content inside of a chosen issue. The content is text and image based and has a tutorial / instruction like character. So with the individual transcodings I aim to give the content some dynamic with the format of an auido / video, but also to to make it some visual for people who will be diving into it.  
+The main aim of the transcodings is activation of the content inside the issue by giving it is some visual / acoustic dynamic. The first transcoding activates the text from the publisher via transcoding of the text into video and sound. The rest of the content is text and image based and has a tutorial / instruction like character. Thus, the variety of it is transcoded into a website. 
 
-## Transcoding No. 1_Sketch
+## Transcoding No. 1
 ### Description
-<br>The transcoding is based on the text from the publiser, found in issue No.1 dating November / December 1975.</br>
-<img src="Documentation/img/text_from_the_publisher.png" width="50%">
+** The transcoding is based on the text from the publiser, found in issue No.1 dating November / December 1975 **
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/text_from_the_publisher.png" width="50%">
 <br>The text is an entry point into the global topic of Self-Sufficient Living that the periodicals are adressing. More in detail, the text speculates about why there is a need for an individual to transfer to Self-Sufficient Living and encourages the reader to do so by bulding up a community via those printed issues.</br>
 
 ### Methods
-
 <br>1. Audio</br>
 <br>To listen to the reading: https://www.youtube.com/watch?v=p4yGQXLIQZM</br>
 <br>However, since it is a relatively big text, purely audio format might not be the the best one to deliver the info to the listener to the full extend</br>
@@ -98,14 +97,24 @@ The main aim of each individual transcoding is to 'activate' the content inside 
 <img src="Documentation/img/transcoding_sketch_2.jpg" width="35%">
 <img src="Documentation/img/transcoding_sketch_movie.gif" width="70%">
 
-
 ### Tools 
 <br>1. TextEdit</br>
 <br>2. Premiere Pro </br>
 <br>2. Photoshop </br>
 
 ### Results
-** will follow later **  
+
+## Transcoding No. 2
+### Description
+### Methods
+### Tools 
+### Results
+
+
+
+## Transcoding Tool
+
+### Description
 
 ### Aims
 <h3>1. Audio, video and still image formats:</h3>
@@ -129,6 +138,8 @@ The main aim of each individual transcoding is to 'activate' the content inside 
 
 ### Outcome Links
 ** will follow later **
+
+# Conclusion
 
 ## Bibliography
 <a name="footnote-1">**[1]**</a>: Brows online books by subjects: e.g science, technology etc.
