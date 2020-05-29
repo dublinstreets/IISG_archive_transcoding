@@ -31,18 +31,12 @@ Serials 'Practical Self-Sufficiency' is an Artefact that created an Aura by comm
 
 # Research on the Artefact
 
-#### Entry points to the Artefact / What is to be decoded:
--- **global entry points:** the topics of self-sufficiency / autonomy / independency / self-reliance and it's practical & mental aspects
--- **specific entry points:** based on a particular article of a particular issue
+### Entry points to the Artefact / What is to be decoded:
+-- **Global entry points:** the topics of self-sufficiency / autonomy / independency / self-reliance and it's practical & mental aspects
+-- **Specific entry points:** based on a particular article of a particular issue
 
-**General Information**
-<br>- Editors: Katie Thear</br>
-<br>- Graphics: Jim Hutchison</br>
-<br>- Publisher: Broad Leys Publishing Company, Widdington, Saffron Walden, Essex</br>
-<br>- Times when published: 1975-1985, 6 times a year</br>
-<br>- Contributors: -</br>
-<br>- Language: English</br>
-<br>- Printed: Gamble&Wood, Station Road, Gt.Chesterford, Essex</br>
+### General Information:
+**Editors:** Katie Thear; **Graphics:** Jim Hutchison; **Publisher:** Broad Leys Publishing Company, Widdington, Saffron Walden, Essex; **Times when published:** 1975-1985, 6 times a year; **Contributors:** unknown; **Language:** English; **Printed:** Gamble&Wood, Station Road, Gt.Chesterford, Essex;
 <h3>Topics inside an issue</h3>
 <br>— how to sharpen workshop tools?</br>
 <br>— how to grow your own watercress?</br>
