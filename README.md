@@ -142,6 +142,7 @@ Generally, approaching the Artefact from a standpoint of a person, who 'activate
 
 # Outcome
 **1**. Outcome 1 presents the text from the publisher in an audio and video formats.
+
 **2**. Outcome 2 presents a website, which drawns a parallel between the movement of Self-Sufficient Living back then (in 1970s) and now. It communicates the idea that the movement is still relevant today and that the suggestions / tutorials / tips  for Self-Sufficient Living come together from different times in spite of tecnhological developments and globalization.  
 
 ### Outcome Links
@@ -157,10 +158,15 @@ Regarding the theme / movement I worked with, I was happy to be able to chose an
 
 ## Bibliography
 <a name="footnote-1">**[1]**</a>: A web site which recommends the best/cheapest tools available (https://kk.org/cooltools/)
+
 <a name="footnote-2">**[2]**</a>: A web site to brows books by subject, to look for Self-Sufficient Movement and related topics, look for sections such as 'Science' and 'Technology'  (https://onlinebooks.library.upenn.edu/subjects.html)
+
 <a name="footnote-3">**[3]**</a>: *The New Complete Book Of Self Sufficiency*, by John Seymour
+
 <a name="footnote-4">**[4]**</a>: *The Self-Sufficient Life and How to Live It: The Complete Back-To-Basics Guide*, by John Seymour, Deirdre Headon
+
 <a name="footnote-5">**[5]**</a>: *Earth in Mind: On Education, Environment, and the Human Prospect*, by David W. Orr
+
 <a name="footnote-6">**[6]**</a>: *Made from Scratch: Discovering the Pleasures of a Handmade Life*, by Jenna Woginrich
 
 
