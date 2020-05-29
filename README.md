@@ -65,24 +65,17 @@ Serials 'Practical Self-Sufficiency' is an Artefact that created an Aura by comm
 https://onlinebooks.library.upenn.edu/subjects.html
 
 ### 4. Cool Tools:
-<br>- https://kk.org/cooltools/</br>
-<br>— a website, which recommends the best/cheapest tools available</br>
-<br>— anything that can be useful</br>
-<br>— reviews written by real students</br>
+https://kk.org/cooltools/
+**--** A website, which recommends the best/cheapest tools available **--** Anything that can be useful **--** Reviews written by real students
 
 ### 5. Drop City:
-<br>— counterculture artists' community that formed in southern Colorado in 1965</br>
-<br>—  the intention was to create a live-in work of Drop Art</br>
-<br>— known as the first rural "hippie commune"</br>
+**--** Counterculture artists' community that formed in southern Colorado in 1965 **--** The intention was to create a live-in work of Drop Art **--** Known as the first rural "hippie commune"
 
 ### 6. Burning Man:
-<br>— described by participants as an experimental society, radical self-expression and radical self-sufficiency</br>
-<br>— the idea is that during Burning Man, people will temporarily build a community</br>
-<br>— participants are expected to be self-sufficient in their needs such as food, water and a place to sleep</br>
-<br>— Burning Man is very dependent on the efforts of volunteers</br>
+**--** Described by participants as an experimental society, radical self-expression and radical self-sufficiency **--** The idea is that during Burning Man, people will temporarily build a community **--** Participants are expected to be self-sufficient in their needs such as food, water and a place to sleep **--** Burning Man is very dependent on the efforts of volunteers
 
 ### 7. Freetown Christiania:
-<br>— is an intentional community and commune of about 850 to 1,000 residents, covering 7.7 hectares (19 acres) in the borough of Christianshavn in the Danish capital city of Copenhagen</br>
+**--** Is an intentional community and commune of about 850 to 1,000 residents, covering 7.7 hectares (19 acres) in the borough of Christianshavn in the Danish capital city of Copenhagen
 
 # Transcodings
 The main aim of each individual transcoding is to 'activate' the content inside of a chosen issue. The content is text and image based and has a tutorial / instruction like character. So with the individual transcodings I aim to give the content some dynamic with the format of an auido / video, but also to to make it some visual for people who will be diving into it.  
