@@ -32,9 +32,7 @@ Serials 'Practical Self-Sufficiency' is an Artefact that created an Aura by comm
 
 # Research on the Artefact
 
-**Entry points to the Artefact / What is to be decoded:**
-<br>-- global entry points: the topics of self-sufficiency / autonomy / independency / self-reliance and it's practical & mental aspects</br>
-<br>-- specific entry points: based on a particular article of a particular issue</br>
+**Entry points to the Artefact / What is to be decoded:** *global entry points:* the topics of self-sufficiency / autonomy / independency / self-reliance and it's practical & mental aspects and *specific entry points:* based on a particular article of a particular issue
 **General Information**
 <br>- Editors: Katie Thear</br>
 <br>- Graphics: Jim Hutchison</br>
