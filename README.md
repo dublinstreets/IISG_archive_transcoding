@@ -37,40 +37,10 @@ Serials 'Practical Self-Sufficiency' is an Artefact that created an Aura by comm
 
 ### General Information:
 **Editors:** Katie Thear; **Graphics:** Jim Hutchison; **Publisher:** Broad Leys Publishing Company, Widdington, Saffron Walden, Essex; **Times when published:** 1975-1985, 6 times a year; **Contributors:** unknown; **Language:** English; **Printed:** Gamble&Wood, Station Road, Gt.Chesterford, Essex;
-<h3>Topics inside an issue</h3>
-<br>— how to sharpen workshop tools?</br>
-<br>— how to grow your own watercress?</br>
-<br>— how to keep warm with a wood stove?</br>
-<br>— natural hair care</br>
-<br>— seasonal guide</br>
-<br>— caring for your own oil lamp</br>
-<br>— making a hot bed</br>
-<br>— is the Dexter just a rare breed or the ideal cow for the self supporter?</br>
-<br>— building your own solar roof</br>
-<br>— more on wood burning</br>
-<br>— fencing goats</br>
-<br>— a multi purpose garden</br>
-<br>— hold your horses</br>
-<br>— coping with clay</br>
-<br>— starting with pigs</br>
-<br>— about agrimony</br>
-<br>— special purpose crops</br>
-<br>— choosing chickens</br>
-<br>— how much land for self-sufficiency?</br>
-<br>— beginning with bees</br>
-<br>— primitive leather working</br>
-<br>— a vegan garden</br>
-<br>— raising rabbits</br>
-<br>— eucalyptus - the alternative tree</br>
-<br>— feeding chuckens</br>
-<br>— clay gardening</br>
-<br>— soap from scratch</br>
-<br>— using chain saws</br>
-<br>— field beans</br>
-<br>— composting on the farm</br>
-<br>— recycling</br>
-<br>— an independent garden</br>
-<br>— a course in cooperative self reliance?</br>
+
+### Topics inside an issue:
+**1.** How to sharpen workshop tools? **2.** How to grow your own watercress? **3.** How to keep warm with a wood stove? **4.** Natural hair care **5.** Seasonal guide **6.** Caring for your own oil lamp **7.** Making a hot bed **8.** Is the Dexter just a rare breed or the ideal cow for the self supporter? **9.** Building your own solar roof **10.** More on wood burning **11.** Fencing goats **12.** A multi purpose garden **13.** Hold your horses **14.** Coping with clay **15.** Starting with pigs **16.** About agrimony **17.** Special purpose crops **18.** Choosing chickens **19.** How much land for self-sufficiency? **20.** Beginning with bees **21.** Primitive leather working **22.** A vegan garden **23.** Raising rabbits **24.** Eucalyptus - the alternative tree **25**. Feeding chuckens **26.** Clay gardening **27.** Soap from scratch **28.** Using chain saws **29.** Field beans **30.** Composting on the farm **31.** Recycling **32.** An independent garden **33.** A course in cooperative self reliance?
+
 <h3>Content types</h3>
 <br>- table of contents</br>
 <br>- coming soon</br>
