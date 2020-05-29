@@ -138,16 +138,20 @@ The text is an entry point into the global topic of Self-Sufficient Living that 
 ** will follow later **
  
 # Reflection
-** will follow later **
+Generally, approaching the Artefact from a standpoint of a person, who 'activates' the content inside worked well for me. In that way, I could both analyse and dive into the content, which communicates a topic that's personally interesting for me. At the same time, I could have a room for creative experimentation and learning of the digital tools such as video editing and webcoding. However, limited (or more fairly none) access to the Artefact due to health crisis of Covid-19 was quite an obstacle. The project would be much more in-depth if I could get back to my Artefact, which, I have to point of, consists of quite a big volume of issues. I would benefit a lot from analysing a bigger scope of magazine issues. 
 
-# Outcomes
-<br>1. Multiple transcoding in a format of a still image / audio / video</br>
-<br>2. A website collecting the transcoding together and contextualizing the topic of Self-Sufficient Living with references to the current times</br> 
+# Outcome
+**1**. Outcome 1 presents the text from the publisher in an audio and video formats.
+**2**. Outcome 2 presents a website, which drawns a parallel between the movement of Self-Sufficient Living back then (in 1970s) and now. It communicates the idea that the movement is still relevant today and that the suggestions / tutorials / tips  for Self-Sufficient Living come together from different times in spite of tecnhological developments and globalization.  
 
 ### Outcome Links
-** will follow later **
+**1. The audio:** https://www.youtube.com/watch?v=p4yGQXLIQZM
+**2. The video:** https://www.youtube.com/watch?v=zWSv1umZe4o
+**3. The website:** https://sonianikolaeva.github.io/
 
 # Conclusion
+Regarding working with the method of transcoding, I have learned to look at the tools and visual ways of communcation in a broader way. At first, the idea of transcoding one medium into another seemed very vague and unclear, but later on the scope of possibilies become quite broad.
+Regarding the theme / movement I worked with, I was happy to be able to chose an Artefact that's personally interesting for me. I enjoyed the research phase and expecially looking for parallels and common points in the movement that was popular 40 years ago and still remains so. It is indeed unfortunate that I didn't have access to the Artefact due to Covid-19. In fact, after my first visit to IISG, I wasn't sure this Artefact would be my final one and planned to come back and search more. Thus at that moment I didn't make a good documentation of the Artefact (e.g scans) and so it wasn't that smooth of a process to work only with a few pictures of the magazine spreads. The Artefact is not available anywhere else online or as a pdf. 
 
 ## Bibliography
 <a name="footnote-1">**[1]**</a>: Brows online books by subjects: e.g science, technology etc.
