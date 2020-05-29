@@ -27,7 +27,7 @@ Serials 'Practical Self-Sufficiency' is an Artefact that created an Aura by comm
 | **Type** | Object
 | **Language** | English
 | **Published** | 	Saffron Walden
-|<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/artefact_1.png" width="70%">| The artefact is a single magazine of approximate format of A4. The cover design is consistent with a typographic logotype on top on the layout followed by varied graphics in color.
+|<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/artefact_1.png" width="70%">| Each single artefact is a magazine of an approximate format of A4. The cover design is consistent with a typographic logotype on top on the layout followed by varied graphics in color. The volume of each magazine is approximately 40 pages.
 
 # Research on the Artefact
 
@@ -36,17 +36,13 @@ Serials 'Practical Self-Sufficiency' is an Artefact that created an Aura by comm
 -- **Specific entry points:** based on a particular article of a particular issue
 
 ### General Information:
-**Editors:** Katie Thear; **Graphics:** Jim Hutchison; **Publisher:** Broad Leys Publishing Company, Widdington, Saffron Walden, Essex; **Times when published:** 1975-1985, 6 times a year; **Contributors:** unknown; **Language:** English; **Printed:** Gamble&Wood, Station Road, Gt.Chesterford, Essex;
+**Editors:** Katie Thear; **Graphics:** Jim Hutchison; **Publisher:** Broad Leys Publishing Company, Widdington, Saffron Walden, Essex; **Times when published:** 1975-1985, 6 times a year; **Contributors:** unknown; **Language:** English; **Printed:** Gamble & Wood, Station Road, Gt.Chesterford, Essex;
 
 ### Topics inside an issue:
-**1.** How to sharpen workshop tools? **2.** How to grow your own watercress? **3.** How to keep warm with a wood stove? **4.** Natural hair care **5.** Seasonal guide **6.** Caring for your own oil lamp **7.** Making a hot bed **8.** Is the Dexter just a rare breed or the ideal cow for the self supporter? **9.** Building your own solar roof **10.** More on wood burning **11.** Fencing goats **12.** A multi purpose garden **13.** Hold your horses **14.** Coping with clay **15.** Starting with pigs **16.** About agrimony **17.** Special purpose crops **18.** Choosing chickens **19.** How much land for self-sufficiency? **20.** Beginning with bees **21.** Primitive leather working **22.** A vegan garden **23.** Raising rabbits **24.** Eucalyptus - the alternative tree **25**. Feeding chuckens **26.** Clay gardening **27.** Soap from scratch **28.** Using chain saws **29.** Field beans **30.** Composting on the farm **31.** Recycling **32.** An independent garden **33.** A course in cooperative self reliance?
+**1.** How to sharpen workshop tools? **2.** How to grow your own watercress? **3.** How to keep warm with a wood stove? **4.** Natural hair care **5.** Seasonal guide **6.** Caring for your own oil lamp **7.** Making a hot bed **8.** Is the Dexter just a rare breed or the ideal cow for the self supporter? **9.** Building your own solar roof **10.** More on wood burning **11.** Fencing goats **12.** A multi purpose garden **13.** Hold your horses **14.** Coping with clay **15.** Starting with pigs **16.** About agrimony **17.** Special purpose crops **18.** Choosing chickens **19.** How much land for self-sufficiency? **20.** Beginning with bees **21.** Primitive leather working **22.** A vegan garden **23.** Raising rabbits **24.** Eucalyptus-the alternative tree **25**. Feeding chuckens **26.** Clay gardening **27.** Soap from scratch **28.** Using chain saws **29.** Field beans **30.** Composting on the farm **31.** Recycling **32.** An independent garden **33.** A course in cooperative self reliance?
 
-<h3>Content types</h3>
-<br>- table of contents</br>
-<br>- coming soon</br>
-<br>- notes from the publishers</br>
-<br>- information, tips, practical suggestions contributed by readers</br>
-
+### Content types inside an issue:
+**1.** Table of contents **2.** What is coming soon **3.** Remarks from the publishers **4.** Information, tips, practical suggestions contributed by readers
 
 
 # Global Research
