@@ -27,8 +27,7 @@ Serials 'Practical Self-Sufficiency' is an Artefact that created an Aura by comm
 | **Type** | Object
 | **Language** | English
 | **Published** | 	Saffron Walden
-|<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/artefact_1.png">
-| The artefact is a single magazine of approximate format of A4. The cover design is consistent with a typographic logotype on top on the layout followed by varied graphics in color.
+|<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/artefact_1.png" width="50%">| The artefact is a single magazine of approximate format of A4. The cover design is consistent with a typographic logotype on top on the layout followed by varied graphics in color.
 
 # Research on the Artefact
 
