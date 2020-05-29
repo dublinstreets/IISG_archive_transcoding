@@ -6,7 +6,7 @@
     1. [Metadata](#metadata)
     2. [Research on the Artefact](#research-on-artefact)
 2. [Global Research](#global-research)
-3. [Transcoding](#transcoding)
+3. [Transcodings](#transcoding)
     1. [Transcoding No. 1](#transcoding-no-1)
     2. [Transcoding No. 2](#transcoding-no-2)
     3. [Transcoding Tool](#transcoding-tool)
@@ -42,54 +42,48 @@ Serials 'Practical Self-Sufficiency' is an Artefact that created an Aura by comm
 **1.** How to sharpen workshop tools? **2.** How to grow your own watercress? **3.** How to keep warm with a wood stove? **4.** Natural hair care **5.** Seasonal guide **6.** Caring for your own oil lamp **7.** Making a hot bed **8.** Is the Dexter just a rare breed or the ideal cow for the self supporter? **9.** Building your own solar roof **10.** More on wood burning **11.** Fencing goats **12.** A multi purpose garden **13.** Hold your horses **14.** Coping with clay **15.** Starting with pigs **16.** About agrimony **17.** Special purpose crops **18.** Choosing chickens **19.** How much land for self-sufficiency? **20.** Beginning with bees **21.** Primitive leather working **22.** A vegan garden **23.** Raising rabbits **24.** Eucalyptus-the alternative tree **25**. Feeding chuckens **26.** Clay gardening **27.** Soap from scratch **28.** Using chain saws **29.** Field beans **30.** Composting on the farm **31.** Recycling **32.** An independent garden **33.** A course in cooperative self reliance?
 
 ### Content types inside an issue:
-**1.** Table of contents **2.** What is coming soon **3.** Remarks from the publishers **4.** Information, tips, practical suggestions contributed by readers
+**1.** Table of contents; **2.** What is coming soon; **3.** Remarks from the publishers; **4.** Information, tips, practical suggestions contributed by readers;
+
+### Preliminary research questions:
+**1.** What defines a culture of online self-sufficiency? **2. Main** What strategies does the culture of online self-sufficiency use?
 
 
 # Global Research
-<h3>Topics related to Self-Sufficiency</h3>
-<br>— DIY</br>
-<br>— Digital ecology</br>
-<br>— Alternative education</br>
-<br>— Holism</br>
-<br>— Experimentalism</br>
-<br>— Counterculture</br>
-<br>— Radical Self-reliance</br>
 
-<h3>Whole Earth Catalogue</h3>
-<br>— self-sufficiency, ecology, alternative education, DIY, holism</br>
-<br>— convention-challenging experimentalism</br>
-<br>— counterculture</br>
+### Topics related to Self-Sufficiency:
+**1.** DIY **2.** Digital ecology **3.** Alternative education **4.** Holism **5.** Experimentalism **6.** Counterculture **7.** Radical Self-reliance
 
-<h3>CoEvolution Quarterly</h3>
+### 1. Whole Earth Catalogue:
+**-** Self-sufficiency, ecology, alternative education, DIY, holism
+**-** Convention-challenging experimentalism
+**-** Counterculture
+
+### 2. CoEvolution Quarterly:
 <br>—  a journal which descended from Stewart Brand's Whole Earth Catalog<br>
 <img src="Documentation/img/global_research_1.jpg" width="50%">
 <img src="Documentation/img/global_research_2.jpg" width="50%">
 <h3>Online books pages by subject</h3>
 <br>- https://onlinebooks.library.upenn.edu/subjects.html</br>
 
-<h3>Cool Tools</h3>
+### 3. Cool Tools:
 <br>- https://kk.org/cooltools/</br>
 <br>— a website, which recommends the best/cheapest tools available</br>
 <br>— anything that can be useful</br>
 <br>— reviews written by real students</br>
 
-<h3>Drop City</h3>
+### 4. Drop City:
 <br>— counterculture artists' community that formed in southern Colorado in 1965</br>
 <br>—  the intention was to create a live-in work of Drop Art</br>
 <br>— known as the first rural "hippie commune"</br>
 
-<h3>Burning Man</h3>
+### 5. Burning Man:
 <br>— described by participants as an experimental society, radical self-expression and radical self-sufficiency</br>
 <br>— the idea is that during Burning Man, people will temporarily build a community</br>
 <br>— participants are expected to be self-sufficient in their needs such as food, water and a place to sleep</br>
 <br>— Burning Man is very dependent on the efforts of volunteers</br>
 
-<h3>Freetown Christiania</h3>
+### 6. Freetown Christiania:
 <br>— is an intentional community and commune of about 850 to 1,000 residents, covering 7.7 hectares (19 acres) in the borough of Christianshavn in the Danish capital city of Copenhagen</br>
-
-# Research Questions
-<br>- Research Question #0: What defines a culture of online self-sufficiency?</br>
-<br>-Research Question #1 (main):What strategies does the culture of online self-sufficiency use?</br>
 
 # Transcodings
 The main aim of each individual transcoding is to 'activate' the content inside of a chosen issue. The content is text and image based and has a tutorial / instruction like character. So with the individual transcodings I aim to give the content some dynamic with the format of an auido / video, but also to to make it some visual for people who will be diving into it.  
