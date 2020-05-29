@@ -17,7 +17,7 @@
 
 
 # Artefact
-Serials 'Practical Self-Sufficiency' is an Artefact that has an Aura.
+Serials 'Practical Self-Sufficiency' is an Artefact that created an Aura by communicating a globally known movement of Self-Sufficient living. Speicifically originating in England in 1970s, the Artefact was willing to unite people in Self-Sufficient Living endeavours and promote this way of living to a wider audience. 
 
 ## Metadata
 | Tag | Data |  
