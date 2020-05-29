@@ -103,7 +103,7 @@ The first transcoding I have made is a the *reading* of the *text from a publish
 
 **2. Moving image + subtitles**
 
-*Firstly*, I was thinking about having a black screen and running subtitles, while the audio is still present there. So the person could not only use the verbal memory, but also visual memory to digest the content. \
+*Firstly*, I was thinking about having a black screen and running subtitles, while the audio is still present there. So the person could not only use the verbal memory, but also visual memory to digest the content.
 
 **Sketch:**
 
@@ -119,7 +119,7 @@ The first transcoding I have made is a the *reading* of the *text from a publish
 
 **Fragment from a video sketch:**
 
-<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/transcoding_sketch_movie.gif.jpg" width="100%">
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/transcoding_sketch_movie.gif.gif" width="100%">
 
 ### Tools 
 **1.** TextEdit
