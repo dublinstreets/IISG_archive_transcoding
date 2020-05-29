@@ -95,20 +95,35 @@ We are not out to make a profit — every subscription will go towards expanding
 The text is an entry point into the global topic of Self-Sufficient Living that the periodicals are adressing. More in detail, the text speculates about why there is a need for an individual to transfer to Self-Sufficient Living and encourages the reader to do so by bulding up a community via those printed issues.
 
 ### Methods
-<br>1. Audio</br>
-<br>To listen to the reading: https://www.youtube.com/watch?v=p4yGQXLIQZM</br>
-<br>However, since it is a relatively big text, purely audio format might not be the the best one to deliver the info to the listener to the full extend</br>
-<br>2. Audio + Subtitles + Static Image</br>
-<img src="Documentation/img/transcoding_still_image.jpg" width="35%">
-<br>3. Audio + Subtitles + Moving Image</br>
-<img src="Documentation/img/transcoding_sketch_1.jpg" width="35%">
-<img src="Documentation/img/transcoding_sketch_2.jpg" width="35%">
+**1. Pure Audio **
+
+The first transcoding I have made is a the **reading** of the **text from a publisher**. However, since it is a **relatively big text**, purely audio format might not be the the best one to deliver the info to the listener to the full extend. However, it was **a useful step** to understand that the reading does need a **visual side to it**.
+
+**To listen to the reading go to:** https://www.youtube.com/watch?v=p4yGQXLIQZM
+
+**2. Moving image + subtitles **
+
+**Firstly**, I was thinking about having a black screen and running subtitles, while the audio is still present there. So the person could not only use the verbal memory, but also visual memory to digest the content. \
+
+**Sketch:**
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/transcoding_still_image.jpg" width="45%">
+
+**Secondly**, I understood that the black screen is obviously not the best option for a video that's running to 3.5 minites. Then I started to experient with recording myself as a text activator and manipulation the image of myself to have it more abstarct. Indeed, the personality of me is not imporant, but its important to see that behind the activation is a real person.
+
+**Sketches:**
+
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/transcoding_sketch_1.jpg" width="45%">
+
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/transcoding_sketch_2.jpg" width="45%">
+
 <img src="Documentation/img/transcoding_sketch_movie.gif" width="70%">
 
 ### Tools 
-<br>1. TextEdit</br>
-<br>2. Premiere Pro </br>
-<br>2. Photoshop </br>
+**1.** TextEdit
+
+**2.** Premiere Pro
+
+**3.** Photoshop
 
 ### Results
 
