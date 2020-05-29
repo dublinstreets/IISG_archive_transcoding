@@ -123,10 +123,13 @@ The first transcoding I have made is a the *reading* of the *text from a publish
    
 **Final reading into a video:**
 
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/transcoding_final_movie_1.png" width="100%">
+
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/transcoding_final_movie_2.png" width="100%">
+
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/transcoding_final_movie_3.png" width="100%">
 
 **To listen to the reading go to:** https://www.youtube.com/watch?v=zWSv1umZe4o
-
-
 
 ### Tools 
 **1.** TextEdit
