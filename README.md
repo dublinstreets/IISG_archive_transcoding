@@ -156,4 +156,12 @@ Regarding working with the method of transcoding, I have learned to look at the 
 Regarding the theme / movement I worked with, I was happy to be able to chose an Artefact that's personally interesting for me. I enjoyed the research phase and expecially looking for parallels and common points in the movement that was popular 40 years ago and still remains so. It is indeed unfortunate that I didn't have access to the Artefact due to Covid-19. In fact, after my first visit to IISG, I wasn't sure this Artefact would be my final one and planned to come back and search more. Thus at that moment I didn't make a good documentation of the Artefact (e.g scans) and so it wasn't that smooth of a process to work only with a few pictures of the magazine spreads. The Artefact is not available anywhere else online or as a pdf. 
 
 ## Bibliography
-<a name="footnote-1">**[2]**</a>: A web site which recommends the best/cheapest tools available (https://kk.org/cooltools/)
+<a name="footnote-1">**[1]**</a>: A web site which recommends the best/cheapest tools available (https://kk.org/cooltools/)
+<a name="footnote-2">**[2]**</a>: A web site to brows books by subject, to look for Self-Sufficient Movement and related topics, look for sections such as 'Science' and 'Technology'  (https://onlinebooks.library.upenn.edu/subjects.html)
+<a name="footnote-3">**[3]**</a>: *The New Complete Book Of Self Sufficiency*, by John Seymour
+<a name="footnote-4">**[4]**</a>: *The Self-Sufficient Life and How to Live It: The Complete Back-To-Basics Guide*, by John Seymour, Deirdre Headon
+<a name="footnote-5">**[5]**</a>: *Earth in Mind: On Education, Environment, and the Human Prospect*, by David W. Orr
+<a name="footnote-6">**[6]**</a>: *Made from Scratch: Discovering the Pleasures of a Handmade Life*, by Jenna Woginrich
+
+
+
