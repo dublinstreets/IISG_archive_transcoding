@@ -6,11 +6,13 @@
     1. [Metadata](#metadata)
     2. [Research on the Artefact](#research-on-artefact)
 2. [Global Research](#global-research)
-3. [Research Questions](#research-questions)
-4. [Transcodings](#transcoding)
-    1. [Transcoding No. 1](#transcoding-no-1)
-5. [Reflection](#reflection)
-6. [Outcome](#outcome)
+3. [Transcoding](#transcoding)
+    i. [Transcoding No. 1](#transcoding-no-1)
+    ii. [Transcoding No. 2](#transcoding-no-2)
+    iii. [Transcoding Tool](#transcoding-tool)
+4. [Reflection](#reflection)
+5. [Outcome](#outcome)
+6. [Conclusion](#conclusion)
 7. [Bibliography](#bibliography) 
 
 
@@ -25,7 +27,7 @@ Serials 'Practical Self-Sufficiency' is an Artefact that has an Aura.
 | **Type** | Object
 | **Language** | English
 | **Published** | 	Saffron Walden
-|[<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/artefact_1.png"> width="100%">](#)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
+|[<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/artefact_1.png"> width="100%">](#)| The artefact is a single magazine of approximate format of A4. The cover design is consistent with a typographic logotype on top on the layout followed by varied graphics in color.
 
 <br>Entry points to the Artefact / What is to be decoded:</br>
 <br>— global entry points: the topics of self-sufficiency / autonomy / independency / self- reliance and it's practical & mental aspects</br>
@@ -188,52 +190,3 @@ The main aim of each individual transcoding is to 'activate' the content inside 
 ## Bibliography
 <a name="footnote-1">**[1]**</a>: Brows online books by subjects: e.g science, technology etc.
 <a name="footnote-2">**[2]**</a>: A web site which recommends the best/cheapest tools available (https://kk.org/cooltools/)
-
-
-## List of Feedbacks
-<h3>From Martijn as of March 16th</h3>
-<br>- digital realm, how can you be self-sufficient online, that means you don't use Google services, email and you need to set up your own?</br>
-<br>- digital counterpart for the topics/articles in the issues</br>
-<br>- the Whole Earth catalogue</br>
-<br>- define a research question</br>
-<br>- what are analogue strategies to transcode an artefact?</br>
-<br>- what are the digital tools to transcode an artefact?</br>
-
-<h3>From Hannes as of March 23rd</h3>
-<br>- about the artefact: 1 way is transcoding the content of an artefact / 2 way is transcoding the context of an artefact</br>
-<br>- about the transcoding: think of shapes for coming transcodings and quickly go for it, it can be rough</br>
-<br>- about the transcoding: what is lost and what is gained during transcoding</br>
-<br>- about the transcoding: what kind of things you'd like to make</br>
-<br>- about readme. file: readme. file is one to present to the public, cleaned and refined one</br>
-<br>- about readme. file: images can be either embedded links</br>
-<br>- about readme. file: make a personal google drive, collect images there for notion</br>
-
-<h3>From Martijn as of March 30th</h3>
-<br>- create and maintain my own server</br>
-<br>- how to make a self-sufficient video?</br>
-<br>- open source community</br>
-<br>- manifesto in 3 different mediums</br>
-<br>- 3 different manifesto in 1 medium</br>
-<br>- what elements define my existence online? e.g last time seen online, public IP address, internet provider, internet speed</br>
-<br>- possible to set up own wifi network</br>
-
-<h3>From Hannes as of April 8th</h3>
-<br>- podcast to listen to (https://www.e-flux.com/podcasts/df2a7f44638448ac89e8c84f6ae322fe/extern)</br>
-<br>- there should be 1 coding tool in the project</br>
-<br>- subtitles are also a matter that can be designed</br>
-<br>- be critical of a format, because it is already a relatively big text</br>
-<br>- digital and practical self-sufficiency already co-exist online — > there is no need to invent (a sort of culture in my case) — > work with the 'raw' original text</br>
-<br>- this original text of a publisher asks for a performative aspect</br>
-<br>- this original text can be transcoded in 2/3 different mediums:</br>
-    - make a reading, so audio medium</br>
-    - make a video with visuals, so image medium</br>
-
- <h3>From Hannes and Martijn as of April 20th</h3>
-<br>- there is already one concrete outcome — the collective [read.me](http://read.me) catalogue ('The Catalogue of Resillience')</br>
-<br>- the approach to structure the catalogue is editorial</br>
-<br>- week May 11-16 is when the [read.me](http://read.me) file should be final</br>
-<br>- when defining the format of the transcoding, think as if it should actually replace the artefact in the IISG</br>
-<br>- articles from the issue can be transcoded into video tutorials</br>
-<br> - think of the following scheme: 1) pick one issue of the periodical — > 2) transcode the content into a digital publication aka the website — > 3) embed the links / references of how the community of self-sufficientcy functions now</br>
-<br>- in a way, i have to be the contemporary designer of the old issue</br>
-<br>- have a preliminary version of the website by May 4th</br>
