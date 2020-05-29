@@ -111,7 +111,7 @@ The first transcoding I have made is a the *reading* of the *text from a publish
 
 *Secondly*, I understood that the black screen is obviously not the best option for a video that's running to 3.5 minites. Then I started to experient with recording myself as a text activator and manipulation the image of myself to have it more abstarct. Indeed, the personality of me is not imporant, but its important to see that behind the activation is a real person.
 
-**Sketche 2:**
+**Sketches 2:**
 
 <img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/transcoding_sketch_1.jpg" width="55%">
 
@@ -119,7 +119,7 @@ The first transcoding I have made is a the *reading* of the *text from a publish
 
 **Fragment from a video sketch:**
 
-<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/transcoding_sketch_movie.gif.gif"width="100%">
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/transcoding_sketch_movie.gif" width="100%">
    
 **Final reading into a video:**
 
@@ -134,6 +134,8 @@ The first transcoding I have made is a the *reading* of the *text from a publish
 **2.** Premiere Pro
 
 **3.** Photoshop
+
+**4.** QuickTime Player
 
 ### Results
 
