@@ -119,7 +119,7 @@ The first transcoding I have made is a the *reading* of the *text from a publish
 
 **Fragment from a video sketch:**
 
-<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/transcoding_sketch_movie.gif.gif" width="100%">
+<gif src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/transcoding_sketch_movie.gif.gif" width="100%">
 
 ### Tools 
 **1.** TextEdit
