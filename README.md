@@ -210,5 +210,7 @@ Regarding the theme / movement I worked with, I was happy to be able to chose an
 
 <a name="footnote-6">**[6]**</a>: *Made from Scratch: Discovering the Pleasures of a Handmade Life*, by Jenna Woginrich
 
+<a name="footnote-7">**[7]**</a>: *Mother Earth News: The Original Guide to Living Wisely*, visit https://www.motherearthnews.com/
+
 
 
