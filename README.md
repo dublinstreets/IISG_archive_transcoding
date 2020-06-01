@@ -153,11 +153,11 @@ The first transcoding I have made is a the *reading* of the *text from a publish
 
 ### Methods
 
-**-- Read the articles from the original issue of 'Practical Self-Sufficiency**
+**-- Watch the word from the publisher**
 
 <img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/website3.png" width="100%">
 
-**-- Watch the word from the publisher**
+**-- Read the articles from the original issue of 'Practical Self-Sufficiency**
 
 <img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/website4.png" width="100%">
 
