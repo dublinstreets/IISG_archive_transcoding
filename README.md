@@ -151,15 +151,15 @@ The first transcoding I have made is a the *reading* of the *text from a publish
 
 ### Methods
 
-**Read the articles from the original issue of 'Practical Self-Sufficiency**
+**-- Read the articles from the original issue of 'Practical Self-Sufficiency**
 
 <img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/website3.png" width="100%">
 
-**Watch the word from the publisher**
+**-- Watch the word from the publisher**
 
 <img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/website4.png" width="100%">
 
-**Brown through tips from Self Sufficiency Living of the current times**
+**-- Brows through tips from Self Sufficiency Living of the current times**
 
 <img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/website5.png" width="100%">
 
@@ -180,16 +180,19 @@ The first transcoding I have made is a the *reading* of the *text from a publish
 ## Transcoding Tool
 
 ### Description
+The main tool of the prococess is digital - turning the content that originally exists in a printed matter into a webformat. Thus the main tool is coding - the website that collides together the original content of the magazine and links to the tips of Self-Sufficient living of the current times.  
 
 ### Aims
-<h3>1. Audio, video and still image formats:</h3>
-<br>- the transcoding of individual entries from the inside of one of the issues of the periodicals</br>
+**1. Video** The main aim of the video is to activate the text from the publisher and add a visual layer it to - so that the person who watches uses his/her visual memory to digest the text.
+**2. Audio** The main aim of the audio is to activate the text. However, this format has a more experimental nature as it appeared to be less perspective. The consuming of quite a long text isn't that easy and smooth with an audio format.
+**3. Website** The main aim of the website is to bring the original printed content of the isuues into a digital dimention. As the same time, this way the this content could be merged with a contemporary tips of Self-Sufficient living. 
 
 ### Methods
-<br>1. Audio, video and still image formats</br>
+**1. Video** - exists online on YouTube and is implemented on the website;
 
-### Results
-** will follow later ** 
+**3. Audio** -  exists online on YouTube;
+
+**3. Website** -  exists onlne and is published via GitHub;
 
 ### Source Links
 ** will follow later **
