@@ -151,12 +151,17 @@ The first transcoding I have made is a the *reading* of the *text from a publish
 
 ### Methods
 
-**1. Read the articles from the original issue of 'Practical Self-Sufficiency**
+**Read the articles from the original issue of 'Practical Self-Sufficiency**
 
-**2. Watch the word from the publisher**
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/website3.png" width="100%">
 
-**3. Brown through tips from Self Sufficiency Living of the current times**
+**Watch the word from the publisher**
 
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/website4.png" width="100%">
+
+**Brown through tips from Self Sufficiency Living of the current times**
+
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/website5.png" width="100%">
 
 ### Tools 
 **1.** TextEdit - to turn the images of the magazines spreads into text
