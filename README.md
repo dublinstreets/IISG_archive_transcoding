@@ -151,6 +151,13 @@ The first transcoding I have made is a the *reading* of the *text from a publish
 
 ### Methods
 
+**1. Read the articles from the original issue of 'Practical Self-Sufficiency**
+
+**2. Watch the word from the publisher**
+
+**3. Brown through tips from Self Sufficiency Living of the current times**
+
+
 ### Tools 
 **1.** TextEdit - to turn the images of the magazines spreads into text
 
