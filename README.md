@@ -145,6 +145,10 @@ The first transcoding I have made is a the *reading* of the *text from a publish
 ### Description
 **As a way to address the very relevant status of the movement in the current times, there is the website that serves as a platform. The idea of this plaform is to refer to the Artefact of the IISG is 2 ways. One is visual way - the platform uses a similar layout design as the cover in the original magazine. One the contextual way - it presents the original articles with illustrations from one of the issues of the magazine. Another layer of the platform is referencial. It is possible to dive into tips / tutorials of Self-Sufficient Living that people share these times.**
 
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/website1.png" width="100%">
+
+<img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/website2.png" width="100%">
+
 ### Methods
 
 ### Tools 
