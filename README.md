@@ -153,15 +153,15 @@ The first transcoding I have made is a the *reading* of the *text from a publish
 
 ### Methods
 
-**-- Watch the word from the publisher**
+**-- Watch the word from the publisher;**
 
 <img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/website3.png" width="100%">
 
-**-- Read the articles from the original issue of 'Practical Self-Sufficiency**
+**-- Read the articles from the original issue of 'Practical Self-Sufficiency;**
 
 <img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/website4.png" width="100%">
 
-**-- Brows through tips from Self Sufficiency Living of the current times**
+**-- Brows through tips from Self Sufficiency Living of the current times;**
 
 <img src="https://github.com/sonianikolaeva/IISG_archive_transcoding/blob/master/Documentation/img/website5.png" width="100%">
 
@@ -186,7 +186,9 @@ The main tool of the prococess is digital - turning the content that originally 
 
 ### Aims
 **1. Video** The main aim of the video is to activate the text from the publisher and add a visual layer it to - so that the person who watches uses his/her visual memory to digest the text.
+
 **2. Audio** The main aim of the audio is to activate the text. However, this format has a more experimental nature as it appeared to be less perspective. The consuming of quite a long text isn't that easy and smooth with an audio format.
+
 **3. Website** The main aim of the website is to bring the original printed content of the isuues into a digital dimention. As the same time, this way the this content could be merged with a contemporary tips of Self-Sufficient living. 
 
 ### Methods
@@ -195,9 +197,6 @@ The main tool of the prococess is digital - turning the content that originally 
 **3. Audio** -  exists online on YouTube;
 
 **3. Website** -  exists onlne and is published via GitHub;
-
-### Source Links
-** will follow later **
  
 # Reflection
 Generally, approaching the Artefact from a standpoint of a person, who 'activates' the content inside worked well for me. In that way, I could both analyse and dive into the content, which communicates a topic that's personally interesting for me. At the same time, I could have a room for creative experimentation and learning of the digital tools such as video editing and webcoding. However, limited (or more fairly none) access to the Artefact due to health crisis of Covid-19 was quite an obstacle. The project would be much more in-depth if I could get back to my Artefact, which, I have to point of, consists of quite a big volume of issues. I would benefit a lot from analysing a bigger scope of magazine issues. 
