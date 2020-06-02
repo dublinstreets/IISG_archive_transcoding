@@ -82,7 +82,7 @@ https://kk.org/cooltools/
 # Transcodings
 The main aim of the transcodings is activation of the content inside the issue by giving it is some visual / acoustic dynamic. The first transcoding activates the text from the publisher via transcoding of the text into video and sound. The rest of the content is text and image based and has a tutorial / instruction like character. Thus, the variety of it is transcoded into a website. 
 
-## Transcoding No. 1
+# Transcoding No. 1
 ### Description
 **The transcoding is based on the text from the publiser, found in issue No.1 dating November / December 1975**
 
@@ -143,7 +143,7 @@ The first transcoding I have made is a the *reading* of the *text from a publish
 ### Results
 **To listen to the reading go to:** https://www.youtube.com/watch?v=zWSv1umZe4o
 
-## Transcoding No. 2
+# Transcoding No. 2
 ### Description
 **As a way to address the very relevant status of the movement in the current times, there is the website that serves as a platform. The idea of this plaform is to refer to the Artefact of the IISG is 2 ways. One is visual way - the platform uses a similar layout design as the cover in the original magazine. One the contextual way - it presents the original articles with illustrations from one of the issues of the magazine. Another layer of the platform is referencial. It is possible to dive into tips / tutorials of Self-Sufficient Living that people share these times.**
 
@@ -179,7 +179,7 @@ The first transcoding I have made is a the *reading* of the *text from a publish
 ### Results
 **To see the website go to:** https://sonianikolaeva.github.io/
 
-## Transcoding Tool
+# Transcoding Tool
 
 ### Description
 The main tool of the prococess is digital - turning the content that originally exists in a printed matter into a webformat. Thus the main tool is coding - the website that collides together the original content of the magazine and links to the tips of Self-Sufficient living of the current times.  
@@ -217,7 +217,7 @@ Generally, approaching the Artefact from a standpoint of a person, who 'activate
 Regarding working with the method of transcoding, I have learned to look at the tools and visual ways of communcation in a broader way. At first, the idea of transcoding one medium into another seemed very vague and unclear, but later on the scope of possibilies become quite broad.
 Regarding the theme / movement I worked with, I was happy to be able to chose an Artefact that's personally interesting for me. I enjoyed the research phase and expecially looking for parallels and common points in the movement that was popular 40 years ago and still remains so. It is indeed unfortunate that I didn't have access to the Artefact due to Covid-19. In fact, after my first visit to IISG, I wasn't sure this Artefact would be my final one and planned to come back and search more. Thus at that moment I didn't make a good documentation of the Artefact (e.g scans) and so it wasn't that smooth of a process to work only with a few pictures of the magazine spreads. The Artefact is not available anywhere else online or as a pdf. 
 
-## Bibliography
+# Bibliography
 <a name="footnote-1">**[1]**</a>: A web site which recommends the best/cheapest tools available (https://kk.org/cooltools/)
 
 <a name="footnote-2">**[2]**</a>: A web site to brows books by subject, to look for Self-Sufficient Movement and related topics, look for sections such as 'Science' and 'Technology'  (https://onlinebooks.library.upenn.edu/subjects.html)
