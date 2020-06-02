@@ -4,7 +4,7 @@
 ### Table of Contents
 1. [Artefact](#artefact)
     1. [Metadata](#metadata)
-    2. [Research on the Artefact](#research-on-artefact)
+    2. [Research on the Artefact](#research-on-the-artefact)
 2. [Global Research](#global-research)
 3. [Transcodings](#transcoding)
     1. [Transcoding No. 1](#transcoding-no-1)
